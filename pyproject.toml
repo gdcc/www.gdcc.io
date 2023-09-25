@@ -29,7 +29,7 @@ sphinxcontrib-mermaid="^0.8.1"
 sphinx-togglebutton="^0.3.2"
 
 [tool.taskipy.tasks]
-docs-build = "poetry run sphinx-build -M html source build -W"
+docs-build = "poetry run sphinx-build -M html source build -W --keep-going"
 docs-clean = "poetry run sphinx-build -M clean source build"
 docs-live = "poetry run sphinx-autobuild source build"
 
