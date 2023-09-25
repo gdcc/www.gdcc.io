@@ -1,0 +1,38 @@
+[tool.poetry]
+name = "gdcc-website"
+version = "0.1.0"
+description = "Sphinx project for GDCC's main website"
+homepage = "https://dataverscommunity.global"
+authors = [
+    "Oliver Bertuch <o.bertuch@fz-juelich.de>",
+]
+
+readme = "README.md"
+repository = "https://github.com/gdcc/dataversecommunity.global"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+taskipy = "^1.10.3"
+
+Sphinx = "^7.2.6"
+# Sphinx - Additional modules
+myst-parser = "^2.0.0"
+pydata-sphinx-theme = "^0.14.1"
+sphinx-favicon = "^0.2"
+sphinxcontrib-contentui = "^0.2.5"
+sphinxcontrib-images = "^0.9.4"
+sphinx-icon = "^0.1.2"
+sphinx-autobuild = "^2021.3.14"
+sphinxemoji = "^0.2.0"
+sphinxext-opengraph = "^0.6.3"
+sphinxcontrib-mermaid="^0.8.1"
+sphinx-togglebutton="^0.3.2"
+
+[tool.taskipy.tasks]
+docs-build = "poetry run sphinx-build -M html source build -W"
+docs-clean = "poetry run sphinx-build -M clean source build"
+docs-live = "poetry run sphinx-autobuild source build"
+
+[build-system]
+requires = ["poetry-core>=1.2.0"]
+build-backend = "poetry.core.masonry.api"
