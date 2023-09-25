@@ -31,7 +31,7 @@ sphinx-togglebutton="^0.3.2"
 [tool.taskipy.tasks]
 docs-build = "poetry run sphinx-build -M html source build -W --keep-going"
 docs-clean = "poetry run sphinx-build -M clean source build"
-docs-live = "poetry run sphinx-autobuild source build"
+docs-live = "poetry run sphinx-autobuild source build/html --open-browser --delay=2"
 
 [build-system]
 requires = ["poetry-core>=1.2.0"]
