@@ -9,7 +9,7 @@ See below for a tutorial how to start your local setup.
 
 ## Prepare your environment
 
-First, install Python 3.10 (or later).
+First, install Python 3.9 (or later).
 
 Additionally, you need to [install `poetry >= 1.2.0`](https://python-poetry.org/docs/#installation), either globally, or within an environment of your choice.
 As a project, we chose `poetry` to manage our dependencies, builds, and deposits as a state of the art solution within the Python ecosystem.
