@@ -25,5 +25,6 @@ html_theme = 'pydata_sphinx_theme'
 html_logo = '_static/_images/gdcc-logo.png'
 html_static_path = ['_static']
 html_theme_options = {
-  "show_prev_next": False
+  "show_prev_next": False,
+  "header_links_before_dropdown": 6,
 }
