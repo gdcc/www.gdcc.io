@@ -9,4 +9,7 @@ The Global Dataverse Community Consortium (GDCC) is dedicated to providing inter
 about.md
 members.md
 working-groups.md
+services.md
+sign-up.md
+news.md
 ```
