@@ -1,5 +1,8 @@
 # News
 
+(Looks like there were 2 news pages - the first (below) was at HOME/NEWS/ whereas the second had a path of just HOME.)
+(First page:)
+
 The Dataverse Project is Hiring a Project Manager!
 November 9, 2022
 
@@ -102,3 +105,41 @@ June 2022 (1)
 January 2019 (2)
 October 2018 (1)
 July 2018 (1)
+
+(Second Page)
+
+News
+GDCC members ready to make annual pilgrimage to Boston!
+
+January 25, 2019
+
+We are all ready for the Harvard sponsored Community Meeting 2019. Please save the dates June 19, 20, 21 when we all will meet at Harvard to celebrate the Dataverse community. Educational as well as an enjoyable time will be had by all. More information forthcoming on the Dataverse.org site. Big benifits to becoming a GDCC Member at the same time too!  More information soon on that!  Click HERE for information about... Read more about GDCC members ready to make annual pilgrimage to Boston!
+
+GDCC now accepts credit card payments!
+
+January 25, 2019
+
+We are happy to report that the GDCC now can accept credit card payments for membership and DataCite agent accounts. Please contact Jonathan_Crabtree@unc.edu or see our website for more details. Read more about GDCC now accepts credit card payments!
+
+GDCC Congratulates SciELO on 20 years of Open Science Publications
+
+October 15, 2018
+
+I had the wonderful opportunity to speak in Sao Paulo on the 20th anniversary of SciELO.  It was an exciting event and I would like to thank the organizers for a great event and to congratulate them on 20 years of service to our community. 
+
+Introducing the Global Dataverse Community Consortium
+
+July 3, 2018
+
+We are extremely excited to announce the latest progression for our Dataverse community with the forming of a new Global Dataverse Community Consortium.
+
+GDCC Membership Form
+
+...
+
+Read more about Introducing the Global Dataverse Community Consortium
+Blog posts by month
+January 2019 (2)
+October 2018 (1)
+July 2018 (1)
+RSS Feed Subscribe https://dataversecommunity.global/feed
