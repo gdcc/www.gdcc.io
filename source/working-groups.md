@@ -14,4 +14,4 @@
 - Controlled Vocabularies
 - Registry Metadata
 - Software Metadata
-- Dataverse Sustainability
+- Dataverse Sustainability ([charter](https://docs.google.com/document/d/17zp7hBy4OeprpZ4cL2YwuhpRL9li-7j_OCjYE0MYC1k/edit?usp=sharing))
