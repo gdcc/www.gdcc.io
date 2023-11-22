@@ -1,7 +1,7 @@
+# Members
 We welcome applications from all organizations. You will find the membership form on our [Sign-Up page](https://www.gdcc.io/sign-up.html).
 In addition to the Wire Transfer and Check payment types we now have secure credit card payments available. After filling out your membership form click HERE to make a credit card payment.
-
-# GDCC Members:
+## Current GDCC Members:
 | Organization | Country |
 |--|--|
 | Arizona State University | United States |
