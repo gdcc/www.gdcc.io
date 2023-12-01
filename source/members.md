@@ -12,6 +12,7 @@ In addition to the Wire Transfer and Check payment types we now have secure cred
 | Danish e-infrastructure Consortium (DeiC) | Denmark |
 | DANS | Netherlands |
 | DataverseNO Repository | Norway |
+| Florida Gulf Coast University | United States |
 | French National Center for Research | France |
 | Fudan University | China |
 | Fundacao Getulio Vargas (FGV) | Brazil |
@@ -20,14 +21,11 @@ In addition to the Wire Transfer and Check payment types we now have secure cred
 | Harvard University | United States |
 | INRAE, French National Research Institute | France |
 | Institute for Adult Learning | Singapore |
-| International Centre for Research in Agroforestry | Kenya |
 | Istituto Italiano di Tecnologia | Italy |
 | Johns Hopkins University | United States |
 | KU Leuven | Belgium |
-| Living Goods | Kenya |
 | Massachusetts Institute of Technology | United States |
 | Nanyang Technological University | Singapore |
-| Rede Nacional de Ensino e Pesquisa (RNP) | Brazil |
 | Scholars Portal | Canada |
 | SciELO Dataverse Repository | Brazil |
 | Syracuse University | United States |
@@ -39,3 +37,4 @@ In addition to the Wire Transfer and Check payment types we now have secure cred
 | University of Minho | Portugal |
 | University of North Carolina Chapel Hill | United States |
 | University of Virginia | United States |
+| Yale University | United States |
