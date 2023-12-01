@@ -6,11 +6,11 @@ For members that would like to leverage our consortium’s membership in DataCit
 
 *GDCC DataCite Services Fees January-December 2024*
 
-Due to changes in the fee schedules GDCC is required to pay DataCite, an updated GDCC DOI fee schedule for the upcoming year is required. The primary change is the need to charge based on a more granular use of DOI’s as the fee’s from DataCite now include an increase for use of DOI’s . Below is the breakdown of the new costs. The number of DOIs will be calculated using the previous year’s usage numbers. The fees are now also Organizational based. Your organization can have as many repositories as it likes. The fees are based or total DOIs used at the organizational level.
+Due to changes in the fee schedules GDCC is required to pay DataCite, an updated GDCC DOI fee schedule for the upcoming year is required. The primary change is the need to charge based on a more granular use of DOI’s as the fee’s from DataCite now include an increase for use of DOI’s . Below is the breakdown of the new costs. The number of DOIs will be calculated using the previous year’s usage numbers. The fees are now also Organizational based. Your organization can have as many repositories as it likes. The fees are based on total DOIs used at the organizational level.
 
 For Example: UNC Chapel Hill currently has three repositories and is anticipated that we will mint over 10,000 DOIs in 2020 so our fees in 2021 would be $4,420. In 2020 our fees were $900 per repository plus a $300 excess DOI fee for a total of $3000 so we will see an increase of $1,420 as a university.
 
-In contrast most of our GDCC organizations with one repository of less than 2000 DOIs will pay $1040 which is $140 more than the 2020 rate. Please let me know if you have any questions and I can explain the impact for your organization in detail and give you the current DOI usage for your organization
+In contrast most of our GDCC organizations with one repository of less than 2000 DOIs will pay $1200 which is $140 more than the 2020 rate. Please let me know if you have any questions and I can explain the impact for your organization in detail and give you the current DOI usage for your organization
 
 *2024 GDCC DOI Fee Schedule*
 
