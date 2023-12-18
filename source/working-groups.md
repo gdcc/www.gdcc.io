@@ -6,7 +6,7 @@
 - Geospatial Data (inactive)
 - Linked Data Notifications (LDN) (inactive)
 - Metadata (inactive)
-- pyDataverse (inactive)
+- [pyDataverse](https://github.com/gdcc/pyDataverse)
 - [Sensitive Data](https://groups.google.com/g/dataverse-community/c/P-yR0JV26Fc/m/l11RQ4cwAQAJ)
 
 ## Working Groups (WG)
