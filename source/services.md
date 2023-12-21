@@ -26,16 +26,15 @@ Organizations using over 100,000 DOIs per year USD 5,800.00
 
 For those who are interested please email Jonathan Crabtree at Jonathan_Crabtree@unc.edu to begin the process.
 
-## GDCC GitHub Repository
-The GDCC team is leveraging a GDCC GitHub Repository for managing community contributions to the Dataverse Project.
+## GDCC GitHub Repositories
+The GDCC team helps to manage over two dozen repositories on GitHub Repository housing Dataverse-related tools and resources developed and maintained by the community. On Github, you'll find the [Dataaverse Previewers](https://github.com/gdcc/dataverse-previewers), [pyDataverse](https://github.com/gdcc/pyDataverse), [this website](https://github.com/gdcc/dataversecommunity.global), and much more.
 
-https://github.com/GlobalDataverseCommunityConsortium
+If you'd like to use these tools, help to maintain and extend existing tools, or want to share additional tools with the community, check out the full list of 
+[GDCC Community Repositories on Github](https://github.com/gdcc).
 
-Click Here for more information on the use of this repository
 
 ## Dataverse Repository Installation and Consulting Services
 GDCC is proud to offer custom Dataverse Project development and installation services. Contact Jonathan_Crabtree@unc.edu for more information and pricing.
 
-## Google Summer of Code 
-On behalf of the community, GDCC is registered as an organization participating in the Google Summer of Code program for 2020. For those who haven’t heard of the program, Google support students working on open source projects, providing them a stipend to work with mentors from organizations such as the Dataverse community/GDCC. https://summerofcode.withgoogle.com/ provides lots of information about the program. Students get real world experience, and organizations get help on projects of interest.  
-Mentors or Students interested can visit our Ideas List Page to learn some of the possibilities!
+## Open Source Outreach
+If you are a student or a developer interested in working on open source projects, consider contributing to the Dataverse community. We're interested in contributions of different sizes, in different languages (Java, JavaScript, Python, ...), and in textual contributions (in many human languages) as well as code. Our community members can help point you to existing issues/needs that would fit your interest and ability. You might also consider contributing to Dataverse as part of [Hacktoberfest](https://hacktoberfest.com/) - we've been active with Hacktoberfest for several years, inviting new developers to contribute to Dataverse and its related tools. (We've also participated in the [Google Summer of Code program](https://summerofcode.withgoogle.com/) in 2020.) 
