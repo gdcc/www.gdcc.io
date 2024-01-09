@@ -13,7 +13,7 @@
 - [Big Data](https://dataversecommunity.slack.com/archives/C06429RS3D5)
 - [Containerization](https://ct.gdcc.io)
 - Controlled Vocabularies (inactive)
-- Dataverse Sustainability ([charter](https://docs.google.com/document/d/17zp7hBy4OeprpZ4cL2YwuhpRL9li-7j_OCjYE0MYC1k/edit?usp=sharing))
+- Dataverse Sustainability ([charter](https://docs.google.com/document/d/17zp7hBy4OeprpZ4cL2YwuhpRL9li-7j_OCjYE0MYC1k/edit?usp=sharing), [shared notes](https://docs.google.com/document/d/1uBCeLOkHuW0BHMdMbAT3zh8gsaPFWHR1NCTVAR7Xh_A/edit?usp=sharing))
 - Registry Metadata (inactive)
 - Software Metadata (inactive)
 - [UI Component Library](https://groups.google.com/g/dataverse-community/c/4iuH6HRUy2c/m/59beyU3OAQAJ)
