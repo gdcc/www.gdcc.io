@@ -27,6 +27,7 @@ We welcome applications from all organizations. You will find the membership for
 | Fudan University | China |
 | Fundacao Getulio Vargas (FGV) | Brazil |
 | Fundacao Oswaldo Cruz (Fiocruz) | Brazil |
+| George Mason University | United States |
 | Gottingen eResearch Alliance | Germany |
 | Harvard University | United States |
 | INRAE, French National Research Institute | France |
