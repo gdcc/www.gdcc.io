@@ -35,6 +35,7 @@ We welcome applications from all organizations. You will find the membership for
 | Istituto Italiano di Tecnologia | Italy |
 | Johns Hopkins University | United States |
 | KU Leuven | Belgium |
+| Lingnan University | Hong Kong |
 | Massachusetts Institute of Technology | United States |
 | Nanyang Technological University | Singapore |
 | Scholars Portal | Canada |
