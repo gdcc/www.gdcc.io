@@ -34,7 +34,8 @@ If you'd like to use these tools, help to maintain and extend existing tools, or
 
 
 ## Dataverse Repository Installation and Consulting Services
-GDCC is proud to offer custom Dataverse Project development and installation services. Contact Jonathan_Crabtree@unc.edu for more information and pricing.
+GDCC can help you custom Dataverse Project development and installations. Contact Jonathan_Crabtree@unc.edu for more information.
+
 
 ## Open Source Outreach
 If you are a student or a developer interested in working on open source projects, consider contributing to the Dataverse community. We're interested in contributions of different sizes, in different languages (Java, JavaScript, Python, ...), and in textual contributions (in many human languages) as well as code. Our community members can help point you to existing issues/needs that would fit your interest and ability. You might also consider contributing to Dataverse as part of [Hacktoberfest](https://hacktoberfest.com/) - we've been active with Hacktoberfest for several years, inviting new developers to contribute to Dataverse and its related tools. (We've also participated in the [Google Summer of Code program](https://summerofcode.withgoogle.com/) in 2020.) 
