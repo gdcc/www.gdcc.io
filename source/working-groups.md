@@ -8,7 +8,7 @@
 - Metadata (inactive)
 - [pyDataverse](https://github.com/gdcc/pyDataverse)
 - [Sensitive Data](https://groups.google.com/g/dataverse-community/c/P-yR0JV26Fc/m/l11RQ4cwAQAJ)
-- [Dataverse Frontend Development](https://ui.gdcc.io)
+- [Frontend Development](https://ui.gdcc.io)
 
 ## Working Groups (WG)
 - [Big Data](https://dataversecommunity.slack.com/archives/C06429RS3D5)
