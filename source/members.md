@@ -14,6 +14,7 @@ We welcome applications from all organizations. You will find the membership for
 ## Current GDCC Members:
 | Organization | Country |
 |--|--|
+| Agencia Nacional de lnvestigacion e lnnovacion (ANII) | Uruguay |
 | Arizona State University | United States |
 | Australian Data Archive | Australia |
 | CEDIA | Ecuador |
@@ -38,10 +39,13 @@ We welcome applications from all organizations. You will find the membership for
 | Lingnan University | Hong Kong |
 | Massachusetts Institute of Technology | United States |
 | Nanyang Technological University | Singapore |
+| NIDDK IBD Genetics Consortium | United States |
 | Scholars Portal | Canada |
 | SciELO Dataverse Repository | Brazil |
+| State Research Institution "Kyiv Academic University" | Ukraine |
 | Syracuse University | United States |
 | Texas Digital Library | United States |
+| Universidad del Valle de Guatemala | Guatemala |
 | Universidad Nacional de Rosario | Argentina |
 | University Library Stuttgart | Germany |
 | University of California Los Angeles | United States |
