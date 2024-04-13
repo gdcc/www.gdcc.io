@@ -9,7 +9,7 @@
 - [Sensitive Data](https://groups.google.com/g/dataverse-community/c/P-yR0JV26Fc/m/l11RQ4cwAQAJ)
 
 ## Working Groups (WG)
-- [Big Data](https://dataversecommunity.slack.com/archives/C06429RS3D5)
+- [Large Data Support](https://dataverse.zulipchat.com/#narrow/stream/432390-large-data)
 - [Containerization](https://ct.gdcc.io)
 - [PyDataverse](https://py.gdcc.io/)
 - Controlled Vocabularies (inactive)
