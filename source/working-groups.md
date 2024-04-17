@@ -1,4 +1,7 @@
 # Working Groups
+
+Everyone is welcome to join our groups. No (GDCC) fee is required to join a group.
+
 ## Interest Groups (IG)
 - Computational Workflows (inactive)
 - Data Documentation Initiative (DDI) (inactive)
