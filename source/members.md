@@ -20,6 +20,7 @@ We welcome applications from all organizations. You will find the membership for
 | CEDIA | Ecuador |
 | Consorci de Serveis Universitaris de Catalunya | Spain |
 | Consorcio Madrono | Spain |
+| Convergence and Open Sharing System for Bigdata, Seoul National University | Republic of Korea |
 | Danish e-infrastructure Consortium (DeiC) | Denmark |
 | DANS | Netherlands |
 | DataverseNO Repository | Norway |
@@ -38,6 +39,7 @@ We welcome applications from all organizations. You will find the membership for
 | KU Leuven | Belgium |
 | Lingnan University | Hong Kong |
 | Massachusetts Institute of Technology | United States |
+| Metabiblioteca | Colombia |
 | Nanyang Technological University | Singapore |
 | NIDDK IBD Genetics Consortium | United States |
 | Scholars Portal | Canada |
