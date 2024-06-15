@@ -34,6 +34,7 @@ We welcome applications from all organizations. You will find the membership for
 | Harvard University | United States |
 | INRAE, French National Research Institute | France |
 | Institute for Adult Learning | Singapore |
+| International Maize and Wheat Improvement Center (CIMMYT) | Mexico |
 | Istituto Italiano di Tecnologia | Italy |
 | Johns Hopkins University | United States |
 | KU Leuven | Belgium |
