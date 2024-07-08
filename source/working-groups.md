@@ -9,7 +9,7 @@ Everyone is welcome to join our groups. No (GDCC) fee is required to join a grou
 - Geospatial Data (inactive)
 - Linked Data Notifications (LDN) (inactive)
 - Metadata (inactive)
-- [Sensitive Data](https://groups.google.com/g/dataverse-community/c/P-yR0JV26Fc/m/l11RQ4cwAQAJ)
+- [Sensitive Data](working-groups/sensitive-data)
 - [Frontend Development](https://ui.gdcc.io)
 
 ## Working Groups (WG)
@@ -20,3 +20,9 @@ Everyone is welcome to join our groups. No (GDCC) fee is required to join a grou
 - Dataverse Sustainability ([charter](https://docs.google.com/document/d/17zp7hBy4OeprpZ4cL2YwuhpRL9li-7j_OCjYE0MYC1k/edit?usp=sharing), [shared notes](https://docs.google.com/document/d/1uBCeLOkHuW0BHMdMbAT3zh8gsaPFWHR1NCTVAR7Xh_A/edit?usp=sharing))
 - Registry Metadata (inactive)
 - Software Metadata (inactive)
+
+```{toctree}
+:hidden:
+working-groups/sensitive-data.md
+```
+
