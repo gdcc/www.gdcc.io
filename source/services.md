@@ -27,7 +27,7 @@ Organizations using over 100,000 DOIs per year USD 5,800.00
 For those who are interested please email Jonathan Crabtree at Jonathan_Crabtree@unc.edu to begin the process.
 
 ## GDCC GitHub Repositories
-The GDCC team helps to manage over two dozen repositories on GitHub Repository housing Dataverse-related tools and resources developed and maintained by the community. On Github, you'll find the [Dataaverse Previewers](https://github.com/gdcc/dataverse-previewers), [pyDataverse](https://github.com/gdcc/pyDataverse), [this website](https://github.com/gdcc/dataversecommunity.global), and much more.
+The GDCC team helps to manage over two dozen repositories on GitHub Repository housing Dataverse-related tools and resources developed and maintained by the community. On Github, you'll find the [Dataaverse Previewers](https://github.com/gdcc/dataverse-previewers), [pyDataverse](https://github.com/gdcc/pyDataverse), [this website](https://github.com/gdcc/www.gdcc.io), and much more.
 
 If you'd like to use these tools, help to maintain and extend existing tools, or want to share additional tools with the community, check out the full list of 
 [GDCC Community Repositories on Github](https://github.com/gdcc).
