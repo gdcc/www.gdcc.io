@@ -1,6 +1,6 @@
-# dataversecommunity.global
+# www.gdcc.io
 
-This GitHub project hosts the sources from which the GDCC website at https://dataversecommunity.global is built.
+This GitHub project hosts the sources from which the GDCC website at https://www.gdcc.io is built.
 Builds are automated and any commited changes will be released by automation.
 
 You can do smaller edits using the GitHub integrated web editor for files and change the Markdown based content.
@@ -22,8 +22,8 @@ You can either download it as a zipped package or clone the whole Git repository
 You can clone the repository and enter the project directory as follows:
 
 ```shell
-git clone https://github.com/gdcc/dataversecommunity.global.git
-cd dataversecommunity.global
+git clone https://github.com/gdcc/www.gdcc.io.git
+cd www.gdcc.io
 ```
 
 ## Build the website for preview

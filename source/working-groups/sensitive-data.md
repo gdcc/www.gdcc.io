@@ -44,4 +44,4 @@ Please join us in Slack! To join the Dataverse Community email support@dataverse
 
 ## Improving this website
 
-Please feel free open an issue or create a pull request at <https://github.com/gdcc/dataversecommunity.global>.
+Please feel free open an issue or create a pull request at <https://github.com/gdcc/www.gdcc.io>.
