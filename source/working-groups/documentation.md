@@ -24,7 +24,7 @@ You can also find our meetings in the [Dataverse Community Calendar][].
 
 ### Upcoming meetings
 
-- [2024-08-16](https://time.is/compare/1400_16_Aug_2024_in_UTC) - [Notes](https://docs.google.com/document/d/1wUpmkOfQICuPQPbITqJ2oZSD2cSJBdHioEsaLck6_Es/edit?usp=sharing)
+- [2024-09-20](https://time.is/compare/1400_20_Sep_2024_in_UTC) - [Notes](https://docs.google.com/document/d/1wUpmkOfQICuPQPbITqJ2oZSD2cSJBdHioEsaLck6_Es/edit?usp=sharing)
 
 ### Previous meetings
 
