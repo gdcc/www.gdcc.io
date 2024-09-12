@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'GDCC'
-copyright = '2023, GDCC Members'
+copyright = '2024, GDCC Members'
 author = 'GDCC Members'
 
 # -- General configuration ---------------------------------------------------
