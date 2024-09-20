@@ -24,11 +24,11 @@ You can also find our meetings in the [Dataverse Community Calendar][].
 
 ### Upcoming meetings
 
-- [2024-09-20](https://time.is/compare/1400_20_Sep_2024_in_UTC) - [Notes](https://docs.google.com/document/d/1wUpmkOfQICuPQPbITqJ2oZSD2cSJBdHioEsaLck6_Es/edit?usp=sharing)
+- [2024-10-18](https://time.is/compare/1400_18_Oct_2024_in_UTC) - [Notes](https://docs.google.com/document/d/1O1v9aMSCNe9ak2_Md2plfaJw42XJuIrb7l1-sSg4hus/edit?usp=sharing)
 
 ### Previous meetings
 
-(None)
+- [2024-09-20](https://time.is/compare/1400_20_Sep_2024_in_UTC) - [Notes](https://docs.google.com/document/d/1wUpmkOfQICuPQPbITqJ2oZSD2cSJBdHioEsaLck6_Es/edit?usp=sharing)
 
 ## Improving this website
 
