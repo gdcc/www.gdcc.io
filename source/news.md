@@ -1,4 +1,8 @@
 # News
+## March 5, 2024
+[GDCC updates](https://dcm2024.sched.com/event/1YRwK/gdcc-updates?iframe=no&w=100%&sidebar=yes&bg=no) at the [Dataverse Community Meeting 2024](https://sites.harvard.edu/dcm2024/). 
+See [presentation](https://osf.io/pq93n) and [recording](https://www.youtube.com/embed/LA1BbkV3Efk?start=5849).
+
 ## November 22, 2023
 Call for proposals for the Dataverse Community Meeting 2024
 Join the Dataverse Project and @CIMMYT for the 10th annual Dataverse Community Meeting.
