@@ -27,4 +27,14 @@ html_static_path = ['_static']
 html_theme_options = {
   "show_prev_next": False,
   "header_links_before_dropdown": 6,
+  # see https://pydata-sphinx-theme.readthedocs.io/en/stable/user_guide/source-buttons.html
+  "use_edit_page_button": True,
 }
+html_context = {
+    "github_user": "gdcc",
+    "github_repo": "www.gdcc.io",
+    "github_version": "main",
+    "doc_path": "source",
+}
+# see use_edit_page_button, which we use instead
+html_show_sourcelink = False
