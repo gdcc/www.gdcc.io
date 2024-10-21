@@ -40,8 +40,3 @@ Please join us in Slack! To join the Dataverse Community email support@dataverse
 
 - [Design Considerations for Handling Sensitive Data in Dataverse](https://docs.google.com/document/d/1gIMCm4iou5UPgm6OiIftuQIyoWWOIwaXpaY39o_3K74/edit?usp=sharing)
 - [Sensitive Data IG Google Drive Folder](https://drive.google.com/drive/folders/1jpc-z-_4xVm6te9CoKAnRCTJBMCNuyYF) 
-
-
-## Improving this website
-
-Please feel free open an issue or create a pull request at <https://github.com/gdcc/www.gdcc.io>.
