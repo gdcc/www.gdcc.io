@@ -32,7 +32,7 @@ We welcome applications from all organizations. You will find the membership for
 | George Mason University | United States |
 | Gottingen eResearch Alliance | Germany |
 | Harvard University | United States |
-| INRAE, French National Research Institute | France |
+| INRAE, French National Institute for Agriculture, Food, and Environment | France |
 | Institute for Adult Learning | Singapore |
 | International Centre for Research in Agroforestry (ICRAF) | Africa |
 | International Maize and Wheat Improvement Center (CIMMYT) | Mexico |
