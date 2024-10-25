@@ -1,4 +1,7 @@
 # News
+## October 23, 2024
+The Dataverse Sustainability Working Group has published their [final report with recommendations](https://doi.org/10.5281/zenodo.13981770) on how to sustain and grow the Dataverse community.
+
 ## October 1, 2024
 [Dataverse Community News for September 2024](https://groups.google.com/g/dataverse-community/c/xDg8Sq5kqqQ)
 
