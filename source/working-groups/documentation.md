@@ -16,7 +16,7 @@ We welcome anyone to join our meetings!
 
 We meet on the third Friday of the month at 2pm UTC.
 
-Please find us on Google Meet: <https://meet.google.com/ifs-iqjq-vuv>
+Please find us on Google Meet: <https://meet.google.com/yjm-phxw-deb>
 
 You can also find our meetings in the [Dataverse Community Calendar][].
 
