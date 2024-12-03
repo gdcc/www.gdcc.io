@@ -1,6 +1,9 @@
 # News
+## December 3, 2024
+Phil Durbin has just published the [2024-11 Dataverse Community News](https://groups.google.com/g/dataverse-community/c/Rt0F_vQwADU). Also November has been packed with a lot of Dataverse activities!
+
 ## November 1, 2024
-Phil Durbin published the [2024-10 Dataverse Community News](https://groups.google.com/g/dataverse-community/c/Td7xKb80hlI). Impressive activities in October 2024!
+Phil Durbin has just published the [2024-10 Dataverse Community News](https://groups.google.com/g/dataverse-community/c/Td7xKb80hlI). Impressive activities in October 2024!
 
 ## October 23, 2024
 The Dataverse Sustainability Working Group has published their [final report with recommendations](https://doi.org/10.5281/zenodo.13981770) on how to sustain and grow the Dataverse community.
