@@ -24,6 +24,8 @@ You can also find our meetings in the [Dataverse Community Calendar][].
 
 ### Upcoming meetings
 
+- [2025-01-17](https://time.is/compare/1400_17_Jan_2025_in_UTC) - [Notes](https://docs.google.com/document/d/1o_gjFaFpl62V8SJSbeL8V_h2-JAHrrrS48jyImU-A7c/edit?usp=sharing)
+
 ### Previous meetings
 
 - [2024-11-22](https://time.is/compare/1500_22_Nov_2024_in_UTC) - [Notes](https://docs.google.com/document/d/1oP3v0iHBDIsvrkPWOr524sdweCv9nfOsb6KWA-oojXo/edit?usp=sharing)
