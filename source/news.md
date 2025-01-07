@@ -1,4 +1,7 @@
 # News
+## January 7, 2025
+Phil Durbin has just published the [2024-12 Dataverse Community News](https://groups.google.com/g/dataverse-community/c/W4lIQgtkcu4). A lot of Dataverse initiatives and activities taking place during the last month of 2024!
+
 ## December 3, 2024
 Phil Durbin has just published the [2024-11 Dataverse Community News](https://groups.google.com/g/dataverse-community/c/Rt0F_vQwADU). Also November has been packed with a lot of Dataverse activities!
 
