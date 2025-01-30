@@ -15,11 +15,9 @@ The goals of this group are to:
 
 We welcome anyone to join our meetings! Meetings are ueually held on a Monday at 1pm Eastern time, and are announced to the [Dataverse Community google group](https://groups.google.com/u/1/g/dataverse-community) and the #ig-sensitivedata channel in the [Dataverse Community Slack](https://dataversecommunity.slack.com). 
 
-The Zoom link is <https://harvard.zoom.us/j/97859236776?pwd=aDBsRzVpU3NMN3dpdXVMTGJHZ0k1QT09>
-
-
 ### Upcoming meetings
 
+- [2025-02-07, 9:30 Eastern](https://time.is/compare/930_7_Feb_2025_in_Boston) - [Zoom link](https://harvard.zoom.us/j/8097317367)
 
 ### Previous meetings
 - [2024-06-24, 13:00 Eastern](https://time.is/compare/1300_24_Jun_2024_in_Boston) - [Meeting Agenda](https://docs.google.com/document/d/1zqrW7BlYFPpvC7lUa7FORAcxBaQYGRa7CcbFe0OilOk/edit#heading=h.yq1tzh9inevt), [Slides: ASU](https://docs.google.com/presentation/d/1L_gcDYhhuMoK-q90ZGy1cAnzdEAdyyTC12OzSMdF3jc/edit?usp=sharing), [Slides: Harvard](https://osf.io/69cux), [Recording](https://harvard.zoom.us/rec/share/3jclvAtIiHMkm3VfrJX56YU2Zao9VKjliEjICi0MHKXNHLOwFjARBZFSbFtfjcpg.yxzsJkamOYyXyR5_)
