@@ -33,7 +33,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - run: pipx install poetry
+      # Poetry 2.0 breaks our project: https://github.com/gdcc/www.gdcc.io/issues/21
+      - run: pipx install poetry==1.8.5
       - uses: actions/setup-python@v4
         with:
           python-version: "3.10"
