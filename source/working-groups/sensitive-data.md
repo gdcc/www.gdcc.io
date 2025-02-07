@@ -17,7 +17,7 @@ We welcome anyone to join our meetings! Meetings are ueually held on a Monday at
 
 ### Upcoming meetings
 
-- [2025-02-07, 9:30 Eastern](https://time.is/compare/930_7_Feb_2025_in_Boston) - [Zoom link](https://harvard.zoom.us/j/8097317367)
+- [2025-02-07, 9:30 Eastern](https://time.is/compare/930_7_Feb_2025_in_Boston) - [Zoom link](https://harvard.zoom.us/j/8097317367), [Recording](https://harvard.zoom.us/rec/share/Q9JYXCLCATaTrx9kY6ZatQiMoPCrdpBQRGZ64vQnmihjB4CVMV5UynkdE2zLZrDu.NPJglTgCC1GgYtCL)
 
 ### Previous meetings
 - [2024-06-24, 13:00 Eastern](https://time.is/compare/1300_24_Jun_2024_in_Boston) - [Meeting Agenda](https://docs.google.com/document/d/1zqrW7BlYFPpvC7lUa7FORAcxBaQYGRa7CcbFe0OilOk/edit#heading=h.yq1tzh9inevt), [Slides: ASU](https://docs.google.com/presentation/d/1L_gcDYhhuMoK-q90ZGy1cAnzdEAdyyTC12OzSMdF3jc/edit?usp=sharing), [Slides: Harvard](https://osf.io/69cux), [Recording](https://harvard.zoom.us/rec/share/3jclvAtIiHMkm3VfrJX56YU2Zao9VKjliEjICi0MHKXNHLOwFjARBZFSbFtfjcpg.yxzsJkamOYyXyR5_)
