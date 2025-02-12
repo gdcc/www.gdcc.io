@@ -10,7 +10,7 @@ Harvard has worked on intake forms, budget planners, and Globus/NESE download in
 
 The goals of this group are to:
 - Discuss how other Institutions are managing these ["big data" features](https://guides.dataverse.org/en/latest/developers/big-data-support.html),
-- Share ourlearned experiences to improve all of these processes.
+- Share our learned experiences to improve all of these processes.
 
 
 ##  Group meetings
@@ -28,7 +28,7 @@ We welcome anyone to join our meetings! Meetings are held monthly and are announ
 
 ## Get in touch
 
-We love to hear feedback from you about our goals and outputs not just during meetings, but also in the [Dataverse Community Google Group](https://groups.google.com/u/1/g/dataverse-community) and in Zulip in the #large-data channel [Dataverse Community Zulip](https://dataverse.zulipchat.com/#narrow/channel/432390-large-data/). . 
+We love to hear feedback from you about our goals and outputs not just during meetings, but also in the [Dataverse Community Google Group](https://groups.google.com/u/1/g/dataverse-community) and in Zulip in the #large-data channel [Dataverse Community Zulip](https://dataverse.zulipchat.com/#narrow/channel/432390-large-data/).
 
 ## References
 
