@@ -9,7 +9,7 @@ Everyone is welcome to join our groups. No (GDCC) fee is required to join a grou
 ## Working Groups (WG)
 - [Containerization](https://ct.gdcc.io)
 - [Documentation](working-groups/documentation)
-- [Large Data Support](https://dataverse.zulipchat.com/#narrow/stream/432390-large-data)
+- [Large Data Support](working-groups/large-data-support)
 - [pyDataverse](https://py.gdcc.io)
 - [UX](https://docs.google.com/document/d/1Y9-8N_7Ssl9EDk7M1KEzu41tu-hc60XWS6aglDG1_X0/edit?usp=sharing)
 
@@ -28,5 +28,6 @@ Everyone is welcome to join our groups. No (GDCC) fee is required to join a grou
 ```{toctree}
 :hidden:
 working-groups/documentation.md
+working-groups/large-data-support.md
 working-groups/sensitive-data.md
 ```
