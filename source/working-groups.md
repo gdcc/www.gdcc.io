@@ -1,6 +1,6 @@
 # Working Groups
 
-Everyone is welcome to join our groups. No (GDCC) fee is required to join a group.
+Everyone is welcome to join our groups. No fee (GDCC or otherwise) is required to join a group.
 
 ## Interest Groups (IG)
 - [Frontend Development](https://ui.gdcc.io)
