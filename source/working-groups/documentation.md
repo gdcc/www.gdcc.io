@@ -25,7 +25,7 @@ You can also find our meetings in the [Dataverse Community Calendar][].
 ### Upcoming meetings
 
 - [2025-04-18]Dataverse Docs Group
-Video call link: https://meet.google.com/yjm-phxw-deb - link to doc: https://docs.google.com/document/d/1xiExZEGduQvTVdsiaRl74SaQRe-vTI9aaMpvb-QsFLg/edit?tab=t.0
+Video call link: https://meet.google.com/yjm-phxw-deb - link to doc: [Notes]https://docs.google.com/document/d/1xiExZEGduQvTVdsiaRl74SaQRe-vTI9aaMpvb-QsFLg/edit?tab=t.0
 
 ### Previous meetings
 
