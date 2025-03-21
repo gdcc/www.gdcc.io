@@ -24,7 +24,11 @@ You can also find our meetings in the [Dataverse Community Calendar][].
 
 ### Upcoming meetings
 
-- [2025-04-18]
+- [2025-04-18]Dataverse Docs Group
+Friday, April 18 · 10:00 – 11:00am
+Time zone: America/New_York
+Google Meet joining info
+Video call link: https://meet.google.com/yjm-phxw-deb
 
 ### Previous meetings
 
