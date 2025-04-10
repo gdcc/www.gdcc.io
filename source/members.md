@@ -16,6 +16,7 @@ We welcome applications from all organizations. You will find the membership for
 |--|--|
 | Agencia Nacional de lnvestigacion e lnnovacion (ANII) | Uruguay |
 | Arizona State University | United States |
+| AUSSDA - The Austrian Social Science Data Archive | Austria |
 | Australian Data Archive | Australia |
 | CEDIA | Ecuador |
 | Consorci de Serveis Universitaris de Catalunya | Spain |
@@ -38,6 +39,7 @@ We welcome applications from all organizations. You will find the membership for
 | International Maize and Wheat Improvement Center (CIMMYT) | Mexico |
 | Istituto Italiano di Tecnologia | Italy |
 | Johns Hopkins University | United States |
+| Kaunas University of Technology | Lithuania |
 | KU Leuven | Belgium |
 | Lingnan University | Hong Kong |
 | Massachusetts Institute of Technology | United States |
