@@ -41,6 +41,7 @@ We welcome applications from all organizations. You will find the membership for
 | Johns Hopkins University | United States |
 | Kaunas University of Technology | Lithuania |
 | KU Leuven | Belgium |
+| La Universidad de las Américas | Ecuador |
 | Lingnan University | Hong Kong |
 | Massachusetts Institute of Technology | United States |
 | Metabiblioteca | Colombia |
