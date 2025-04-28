@@ -1,4 +1,19 @@
 # News
+## April 28, 2025
+The [call for nominations for the 2025 GDCC Steering Committee elections](https://groups.google.com/g/dataverse-community/c/5yjMwiSY9bg) has been announced. Submit your nominations by May 23, 2025 and help shape the future of our community!
+
+## April 11, 2025
+Philipp Conzett has just pre-announced the [2025 Global Dataverse Community Consortium (GDCC) Steering Committee Nominations and Elections](https://groups.google.com/g/dataverse-community/c/Za5uTgWR5i4). Shape the future of the GDCC—start thinking now about the passionate, visionary leaders you’d like to see on the 2025 Steering Committee!
+
+## April 1, 2025
+Phil Durbin has just published the [2025-03 Dataverse Community News](https://groups.google.com/g/dataverse-community/c/19vqRHB9vss). March 2025 has been loaded with Dataverse activities!
+
+## March 3, 2025
+Phil Durbin has just published the [2025-02 Dataverse Community News](https://groups.google.com/g/dataverse-community/c/aYgmpI5Q6_I). Interesting stuff happened in February 2025!
+
+## February 3, 2025
+Phil Durbin has just published the [2025-01 Dataverse Community News](https://groups.google.com/g/dataverse-community/c/VQVfZdYlfSU). The first month of the new Dataverse year has started with exciting activities!
+
 ## January 7, 2025
 Phil Durbin has just published the [2024-12 Dataverse Community News](https://groups.google.com/g/dataverse-community/c/W4lIQgtkcu4). A lot of Dataverse initiatives and activities taking place during the last month of 2024!
 
