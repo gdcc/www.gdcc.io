@@ -41,7 +41,6 @@ We welcome applications from all organizations. You will find the membership for
 | Johns Hopkins University | United States |
 | Kaunas University of Technology | Lithuania |
 | KU Leuven | Belgium |
-| La Universidad de las Américas | Ecuador |
 | Lingnan University | Hong Kong |
 | Massachusetts Institute of Technology | United States |
 | Metabiblioteca | Colombia |
@@ -52,6 +51,7 @@ We welcome applications from all organizations. You will find the membership for
 | State Research Institution "Kyiv Academic University" | Ukraine |
 | Syracuse University | United States |
 | Texas Digital Library | United States |
+| Universidad de los Andes | Colombia |
 | Universidad del Valle de Guatemala | Guatemala |
 | Universidad Nacional de Rosario | Argentina |
 | University Library Stuttgart | Germany |
