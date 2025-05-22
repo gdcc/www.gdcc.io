@@ -61,7 +61,7 @@ We are a mix of developers, writers, testers, and Dataverse enthusiasts from acr
   Simplify the new user experience and help contributors get started faster.
   
 - ✅ **SPA Documentation Integration**  
-  Ensure docs keep up with the newly designed Dataverse App.
+  Ensure docs keep up with the newly designed [Dataverse App](https://github.com/IQSS/dataverse-frontend). 
 
 ---
 
