@@ -51,7 +51,7 @@ We are a mix of developers, writers, testers, and Dataverse enthusiasts from acr
 | 2024-10-18  | [Notes](https://docs.google.com/document/d/1O1v9aMSCNe9ak2_Md2plfaJw42XJuIrb7l1-sSg4hus/edit?usp=drive_link)       |                |
 | 2024-09-20  | [Notes](https://docs.google.com/document/d/1wUpmkOfQICuPQPbITqJ2oZSD2cSJBdHioEsaLck6_Es/edit?usp=drive_link)       | [Recording](#) |
 
-> Want to contribute a summary or your own notes? [Email us](mailto:docs@dataverse.org) or add a comment in the shared Google Doc!
+> Want to contribute a summary or your own notes? Add a comment in the shared Google Doc!
 
 ---
 
