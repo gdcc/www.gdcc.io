@@ -21,8 +21,8 @@ We aim to:
 
 We are a mix of developers, writers, testers, and Dataverse enthusiasts from across the globe. Everyone's welcome to contribute — whether you love fixing typos or designing entire sections!
 
-- **Phil Durbin** — Harvard University (Developer)
 - **Omer Fahim** — Harvard University (QA)
+- **Philip Durbin** — Harvard University (Developer)
 - Add yourself here!
 
 > 🫶 Want to join us? [Open a PR](https://github.com/gdcc/www.gdcc.io) or reach out on [Zulip](https://dataverse.zulipchat.com/#narrow/channel/446770-docs)!
