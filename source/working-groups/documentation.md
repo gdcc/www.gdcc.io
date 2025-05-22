@@ -25,7 +25,7 @@ You can also find our meetings in the [Dataverse Community Calendar][].
 ### Upcoming meetings
 
 - [2025-06-10] Dataverse Documentation Working Group Meeting
-Video call link: https://harvard.zoom.us/j/98501167797?pwd=iE0T6TQqT6EK1jYFaXiWJfMbL029yD.1 Password: 543116 - link to doc: [Notes](https://docs.google.com/document/d/1DVZuwClSgPTcIiLYOTbhlHhOqcj6moE3/edit?usp=drive_link&ouid=112670259962851928741&rtpof=true&sd=true)
+Video call link: https://harvard.zoom.us/j/98501167797?pwd=iE0T6TQqT6EK1jYFaXiWJfMbL029yD.1 Password: 543116, and in-person at the  [2025 Dataverse Community Meeting](https://dcm2025.hsites.harvard.edu/) in Chapel Hill, North Carolina, USA. Link to doc: [Notes](https://docs.google.com/document/d/1DVZuwClSgPTcIiLYOTbhlHhOqcj6moE3/edit?usp=drive_link&ouid=112670259962851928741&rtpof=true&sd=true)
 
 ### Previous meetings
 
