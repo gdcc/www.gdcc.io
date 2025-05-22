@@ -24,11 +24,12 @@ You can also find our meetings in the [Dataverse Community Calendar][].
 
 ### Upcoming meetings
 
-- [2025-05-16]Dataverse Docs Group
-Video call link: https://meet.google.com/yjm-phxw-deb - link to doc: [Notes](https://docs.google.com/document/d/1YQmixOt1E-hGWqDlTbjIkIu9zNKbm0db/edit?usp=sharing&ouid=112670259962851928741&rtpof=true&sd=true)
+- [2025-06-10] Dataverse Documentation Working Group Meeting
+Video call link: https://harvard.zoom.us/j/98501167797?pwd=iE0T6TQqT6EK1jYFaXiWJfMbL029yD.1 Password: 543116 - link to doc: [Notes](https://docs.google.com/document/d/1DVZuwClSgPTcIiLYOTbhlHhOqcj6moE3/edit?usp=drive_link&ouid=112670259962851928741&rtpof=true&sd=true)
 
 ### Previous meetings
 
+- [2025-05-16](https://time.is/compare/1500_16_May_2025_in_UTC) - [Notes](https://docs.google.com/document/d/1YQmixOt1E-hGWqDlTbjIkIu9zNKbm0db/edit?usp=sharing&ouid=112670259962851928741&rtpof=true&sd=true)
 - [2025-04-18](https://time.is/compare/1500_18_Apr_2025_in_UTC) - [Notes](https://docs.google.com/document/d/1Orv0sPTpGyuPVYnvDVuvWQe39FnxZg4S/edit?usp=sharing&ouid=112670259962851928741&rtpof=true&sd=true)
 - [2025-03-21](https://time.is/compare/1500_21_Mar_2025_in_UTC) - [Notes](https://docs.google.com/document/d/1AuGT-mGq9ssOCrHRRgQdcSVz2XbAD-qECXwBHCgMo7E/edit?usp=sharing)
 - [2025-01-17](https://time.is/compare/1400_17_Jan_2025_in_UTC) - [Notes](https://docs.google.com/document/d/1o_gjFaFpl62V8SJSbeL8V_h2-JAHrrrS48jyImU-A7c/edit?usp=sharing)
