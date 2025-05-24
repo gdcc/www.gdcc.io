@@ -12,6 +12,7 @@ working-groups.md
 services.md
 sign-up.md
 news.md
+test-2025-05-24.md
 ```
 
 [Dataverse]: https://dataverse.org
