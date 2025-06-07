@@ -1,4 +1,7 @@
 # News
+## June 2, 2025
+The [2025-05 Dataverse Community News](https://groups.google.com/g/dataverse-community/c/xVRrHElQKOY) have been published on the Dataverse Users Community email list. An impressing amount of Dataverse activities were happening in May 2025!
+
 ## May 1, 2025
 Phil Durbin has just published the [2025-04 Dataverse Community News](https://groups.google.com/g/dataverse-community/c/_W7Uo_d6iTY). Please have a look at the Dataverse activities that took place in April 2025!
 
