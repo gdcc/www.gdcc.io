@@ -48,16 +48,21 @@ We welcome applications from all organizations. You will find the membership for
 | NIDDK IBD Genetics Consortium | United States |
 | Scholars Portal | Canada |
 | SciELO Dataverse Repository | Brazil |
+| Singapore University of Social Sciences | Singapore |
 | State Research Institution "Kyiv Academic University" | Ukraine |
 | Syracuse University | United States |
 | Texas Digital Library | United States |
+| Universidad de Antioquia | Colombia |
 | Universidad de los Andes | Colombia |
 | Universidad del Valle de Guatemala | Guatemala |
+| Universidad Externado de Colombia | Colombia |
 | Universidad Nacional de Rosario | Argentina |
 | University Library Stuttgart | Germany |
 | University of California Los Angeles | United States |
 | University of Campinas | Brazil |
 | University of Minho | Portugal |
 | University of North Carolina Chapel Hill | United States |
+| University of the Basque Country | Spain |
 | University of Virginia | United States |
+| Woods Hole Oceanographic Institute | United States |
 | Yale University | United States |
