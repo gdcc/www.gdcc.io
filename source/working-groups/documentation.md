@@ -23,6 +23,7 @@ We are a mix of developers, writers, testers, and Dataverse enthusiasts from acr
 
 - **Omer Fahim** — Harvard University (QA)
 - **Philip Durbin** — Harvard University (Developer)
+- **Amélie Fiocca** — INRAE (Datasteward)
 - Add yourself here!
 
 > 🫶 Want to join us? [Open a PR](https://github.com/gdcc/www.gdcc.io) or reach out on [Zulip](https://dataverse.zulipchat.com/#narrow/channel/446770-docs)!
