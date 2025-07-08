@@ -18,6 +18,7 @@ We welcome applications from all organizations. You will find the membership for
 | Arizona State University | United States |
 | AUSSDA - The Austrian Social Science Data Archive | Austria |
 | Australian Data Archive | Australia |
+| Borealis, University of Toronto | Canada |
 | CEDIA | Ecuador |
 | Consorci de Serveis Universitaris de Catalunya | Spain |
 | Consorcio Madrono | Spain |
@@ -46,7 +47,6 @@ We welcome applications from all organizations. You will find the membership for
 | Metabiblioteca | Colombia |
 | Nanyang Technological University | Singapore |
 | NIDDK IBD Genetics Consortium | United States |
-| Scholars Portal | Canada |
 | SciELO Dataverse Repository | Brazil |
 | Singapore University of Social Sciences | Singapore |
 | State Research Institution "Kyiv Academic University" | Ukraine |
