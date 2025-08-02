@@ -1,6 +1,6 @@
 # News
 ## August 2, 2025
-An impressive list of [2025-07 Dataverse Community News] (https://groups.google.com/g/dataverse-community/c/WGAZpOfRvHk) has been published on the Dataverse Users Community email list.
+An impressive list of [2025-07 Dataverse Community News](https://groups.google.com/g/dataverse-community/c/WGAZpOfRvHk) has been published on the Dataverse Users Community email list.
 
 ## June 2, 2025
 The [2025-05 Dataverse Community News](https://groups.google.com/g/dataverse-community/c/xVRrHElQKOY) have been published on the Dataverse Users Community email list. An impressing amount of Dataverse activities were happening in May 2025!
