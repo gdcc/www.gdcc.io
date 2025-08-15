@@ -24,6 +24,9 @@ We are a mix of developers, writers, testers, and Dataverse enthusiasts from acr
 - **Omer Fahim** — Harvard University (QA)
 - **Philip Durbin** — Harvard University (Developer)
 - **Amélie Fiocca** — INRAE (Data steward)
+- **Dieuwertje Bloemen** - KU Leuven
+- **Vaida Plankytè** - RSpace
+- **Ines Schmahl** - FZJ
 - Add yourself here!
 
 > 🫶 Want to join us? [Open a PR](https://github.com/gdcc/www.gdcc.io) or reach out on [Zulip](https://dataverse.zulipchat.com/#narrow/channel/446770-docs)!
@@ -65,7 +68,10 @@ We are a mix of developers, writers, testers, and Dataverse enthusiasts from acr
   Simplify the new user experience and help depositors get started faster.
   
 - ✅ **SPA Documentation Integration**  
-  Ensure docs keep up with the newly designed [Dataverse App](https://github.com/IQSS/dataverse-frontend). 
+  Ensure docs keep up with the newly designed [Dataverse App](https://github.com/IQSS/dataverse-frontend).
+
+- ✅ **Catalogue of Training Resources**  
+  Create an overview of existing Dataverse related training resources in the community.
 
 ---
 
