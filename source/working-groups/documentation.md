@@ -82,6 +82,7 @@ We are a mix of developers, writers, testers, and Dataverse enthusiasts from acr
 - 🧪 [Dataverse Guides](https://guides.dataverse.org/en/latest/)
 - 🛠️ [Open Doc Issues](https://github.com/IQSS/dataverse/labels/Feature%3A%20User%20Guide)
 - 💡 [ask.dataverse.org](https://ask.dataverse.org)
+- 📅 [Dataverse Community Calendar](https://calendar.google.com/calendar/embed?src=c_udn4tonm401kgjjre4jl4ja0cs%40group.calendar.google.com&ctz=America%2FNew_York)
 
 ---
 
