@@ -32,7 +32,7 @@ To build the website in your *poetry* environment, run the
 following commands from the project root:
 
 ```shell
-poetry install
+poetry install --no-root
 poetry run task docs-build
 ```
 
