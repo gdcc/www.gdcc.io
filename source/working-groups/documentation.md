@@ -35,7 +35,7 @@ We are a mix of developers, writers, testers, and Dataverse enthusiasts from acr
 
 ## 📅 Upcoming Meeting
 
-**📆 September 18, 2025 — 10AM–11AM ET**  
+**📆 October 17, 2025 — 10AM–11AM ET**  
 📍 Zoom  
 💻 [Join Meeting](https://harvard.zoom.us/j/98933135345?pwd=sUKojqQE5UwyIzY4aVDdgbs7uNFui2.1)  
 🔐 Password: `338288`  
@@ -47,6 +47,7 @@ We are a mix of developers, writers, testers, and Dataverse enthusiasts from acr
 
 | Date        | Notes           | Recording      |
 |-------------|------------------|----------------|
+| 2025-09-26  | [Notes](https://docs.google.com/document/d/1dX8ktajVsRDk-MDF-yHWV0f4vIe8U3DWrSzIerVGlF8/edit?usp=sharing) | [Recording](https://drive.google.com/file/d/1a7LLwI2oHEte7XOwhvz7F7Y2_0RtR2c8/view?usp=sharing) |
 | 2025-08-15  | [Notes](https://docs.google.com/document/d/1dX8ktajVsRDk-MDF-yHWV0f4vIe8U3DWrSzIerVGlF8/edit?usp=sharing) | [Recording](https://drive.google.com/file/d/1hyXwnVIYeqrT7hAuQKG6fUgk7lSO0puO/view?usp=sharing) |
 | 2025-07-18  | [Notes](https://docs.google.com/document/d/1dX8ktajVsRDk-MDF-yHWV0f4vIe8U3DWrSzIerVGlF8/edit?usp=sharing) | [Recording](https://drive.google.com/file/d/1PPZE_sBm-Ky1e1M7Kj8DVi584pUNInBX/view?usp=drive_link) |
 | 2025-06-27  | [Notes](https://docs.google.com/document/d/1dX8ktajVsRDk-MDF-yHWV0f4vIe8U3DWrSzIerVGlF8/edit?usp=sharing) | [Recording](https://drive.google.com/file/d/1wIlck6tD6FB0Grt8i2qbA_Nrm_yAmies/view?usp=drive_link) |
