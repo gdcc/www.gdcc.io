@@ -2,14 +2,12 @@
 
 Everyone is welcome to join our groups. No fee (GDCC or otherwise) is required to join a group.
 
-## Interest Groups (IG)
-- [Sensitive Data](working-groups/sensitive-data)
-
 ## Working Groups (WG)
 - [Containerization](https://ct.gdcc.io)
 - [Documentation](working-groups/documentation)
 - [Large Data Support](working-groups/large-data-support)
 - [pyDataverse](https://py.gdcc.io)
+- [Sensitive Data](working-groups/sensitive-data)
 
 ## Inactive
 - Computational Workflows
