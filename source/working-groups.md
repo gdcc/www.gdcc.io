@@ -3,7 +3,6 @@
 Everyone is welcome to join our groups. No fee (GDCC or otherwise) is required to join a group.
 
 ## Interest Groups (IG)
-- [Frontend Development](https://ui.gdcc.io)
 - [Sensitive Data](working-groups/sensitive-data)
 
 ## Working Groups (WG)
@@ -17,6 +16,7 @@ Everyone is welcome to join our groups. No fee (GDCC or otherwise) is required t
 - Controlled Vocabularies
 - Data Documentation Initiative (DDI)
 - DevOps
+- [Frontend Development](https://ui.gdcc.io)
 - Geospatial Data
 - Linked Data Notifications (LDN)
 - Metadata
