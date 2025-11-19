@@ -5,6 +5,13 @@ The Research and Data Management Core at University of North Carolina at Chapel 
 - request and pay for **(technical) Dataverse consulting services**.
 
 ## To register for an account:
+Download and complete the <a href="https://drive.google.com/file/d/1uVOauUeUwtpRB2B-r14l_hcSIY8GtmyL/view?usp=sharing" target="_blank">registration form</a> and email it to heathl@unc.edu. (Make sure to have your billing information handy, and the name and information of your financial manager—the person who will be paying the invoices.)
+
+Please add no-reply@ilabsolutions.com to your address book; this is the address that invoices will come from.
+
+
+
+
 1. Complete the registration form on the sign-up page, using this link, then email [heathl@unc.edu](mailto:heathl@unc.edu) to let me know that you have registered so that I can approve your registration and send you the necessary contract. Please add no-reply@ilabsolutions.com to your address book at the same time; this is the address that invoices will come from.
 2. You will receive a Welcome Email from iLab (typically within one business day) with login credentials.
 3. Make sure to have your billing information handy, and the name and information of your financial manager (the person who will be paying the invoices); you’ll need to add them under the "Billing Associations" tab.
