@@ -24,6 +24,8 @@ Organizations using over 100,000 DOIs per year USD 5,800.00
 
 *** Note: These prices include bank fees.
 
+*** Note: If you fail to renew your GDCC membership and DataCite DOI service contract, we will be forced to charge a renewal penalty fee of $2000 to reinstate the DOIs to your repository if/when you decide to return.
+
 For those who are interested please email Jonathan Crabtree at Jonathan_Crabtree@unc.edu to begin the process.
 
 ## GDCC GitHub Repositories
