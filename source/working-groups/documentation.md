@@ -1,96 +1,56 @@
-# 📚 Dataverse Documentation Working Group
+# Documentation Working Group
 
-Welcome to the **Documentation Working Group**, where we transform technical content into a clear, cohesive, and collaborative experience for the entire Dataverse community.
+## About
 
-> ✍️ We’re the voice behind the docs — maintaining clarity, improving usability, and ensuring documentation grows alongside Dataverse itself.
+This working group is for all community members interested improving [Dataverse documentation](https://guides.dataverse.org) ([source](https://github.com/IQSS/dataverse/tree/develop/doc/sphinx-guides/source), [how to contribute](https://guides.dataverse.org/en/latest/contributor/documentation.html)). We'd love your input!
 
----
+## Chat
 
-## 🎯 Our Mission
+We use the [#docs][] channel in Zulip. Please feel free to jump in and say hi!
 
-We aim to:
+[#docs]: https://dataverse.zulipchat.com/#narrow/stream/446770-docs
 
-- 🛠️ **Improve** developer and user documentation for better discoverability and usability.
-- 🚀 **Streamline** onboarding with intuitive Quickstart guides.
-- 💡 **Capture** evolving community best practices and release updates.
-- 📊 **Track** and resolve doc-related issues across the ecosystem.
+## Meetings
 
----
+We welcome anyone to join our meetings!
 
-## 👥 Our Team
+We meet on the third Friday of the month at 10am Eastern Time, as shown in the [Dataverse Community Calendar](https://calendar.google.com/calendar/embed?src=c_udn4tonm401kgjjre4jl4ja0cs%40group.calendar.google.com&ctz=America%2FNew_York).
 
-We are a mix of developers, writers, testers, and Dataverse enthusiasts from across the globe. Everyone's welcome to contribute — whether you love fixing typos or designing entire sections!
+### Next meeting
 
-- **Omer Fahim** — Harvard University (QA)
-- **Philip Durbin** — Harvard University (Developer)
-- **Amélie Fiocca** — INRAE (Data steward)
-- **Dieuwertje Bloemen** - KU Leuven
-- **Vaida Plankytè** - RSpace
-- **Ines Schmahl** - FZJ
-- Add yourself here!
+- When: [2026-01-16 at 10am Eastern](https://time.is/compare/10am_16_Jan_2026_in_Boston)
+- Where: [Zoom](https://harvard.zoom.us/j/92654640205?pwd=43COJ82rJMAKZ179tjMDDTHPOO63KT.1)
+- What: [Agenda](https://docs.google.com/document/d/1dX8ktajVsRDk-MDF-yHWV0f4vIe8U3DWrSzIerVGlF8/edit?usp=sharing)
 
-> 🫶 Want to join us? [Open a PR](https://github.com/gdcc/www.gdcc.io) or reach out on [Zulip](https://dataverse.zulipchat.com/#narrow/channel/446770-docs)!
+If you have agenda items to suggest or simply want to say hi, please join us in the [meeting](https://dataverse.zulipchat.com/#narrow/channel/446770-docs/topic/doc.20group.20meeting/with/562700970) topic in Zulip.
 
----
+### Previous meetings
 
-## 📅 Upcoming Meeting
+Notes for all meetings are in the same [rolling notes doc](https://docs.google.com/document/d/1dX8ktajVsRDk-MDF-yHWV0f4vIe8U3DWrSzIerVGlF8/edit?usp=sharing).
 
-**📆 January 16, 2026 — 10AM–11AM ET**
-📍 Zoom  
-💻 [Join Meeting](https://harvard.zoom.us/j/98933135345?pwd=sUKojqQE5UwyIzY4aVDdgbs7uNFui2.1)  
-🔐 Password: `338288`  
-📝 [Meeting Notes](https://docs.google.com/document/d/1dX8ktajVsRDk-MDF-yHWV0f4vIe8U3DWrSzIerVGlF8/edit?usp=sharing)  
+- 2025-11-21 [Recording](https://drive.google.com/file/d/1S3zF5D0qPioZbuBHYNy8qKTb9pW0Dl23/view?usp=sharing)
+- 2025-09-26 [Recording](https://drive.google.com/file/d/1a7LLwI2oHEte7XOwhvz7F7Y2_0RtR2c8/view?usp=sharing)
+- 2025-08-15 [Recording](https://drive.google.com/file/d/1hyXwnVIYeqrT7hAuQKG6fUgk7lSO0puO/view?usp=sharing)
+- 2025-07-18 [Recording](https://drive.google.com/file/d/1PPZE_sBm-Ky1e1M7Kj8DVi584pUNInBX/view?usp=drive_link)
+- 2025-06-27 [Recording](https://drive.google.com/file/d/1wIlck6tD6FB0Grt8i2qbA_Nrm_yAmies/view?usp=drive_link)
 
----
+<details>
+<summary>Older meetings</summary>
+<div markdown=1>
 
-## 🗂️ Previous Meetings & Notes
+- 2025-06-10 
+- 2025-05-16 
+- 2025-04-18 
+- 2025-03-21 
+- 2025-01-17 
+- 2024-11-22 
+- 2024-10-18 
+- 2024-09-20 [Recording](https://harvard.zoom.us/rec/share/UBmb9Mzd_grPPsbX7jik54BGRMOHoskcVUab434u6FJOiyPE-fPN-AQjcWQmhSQ2.KAUPfDyco5S2aPzM)
+</div>
+</details>
 
-| Date        | Notes           | Recording      |
-|-------------|------------------|----------------|
-| 2025-11-21  | [Notes](https://docs.google.com/document/d/1dX8ktajVsRDk-MDF-yHWV0f4vIe8U3DWrSzIerVGlF8/edit?usp=sharing) | [Recording](https://drive.google.com/file/d/1S3zF5D0qPioZbuBHYNy8qKTb9pW0Dl23/view?usp=sharing) |
-| 2025-09-26  | [Notes](https://docs.google.com/document/d/1dX8ktajVsRDk-MDF-yHWV0f4vIe8U3DWrSzIerVGlF8/edit?usp=sharing) | [Recording](https://drive.google.com/file/d/1a7LLwI2oHEte7XOwhvz7F7Y2_0RtR2c8/view?usp=sharing) |
-| 2025-08-15  | [Notes](https://docs.google.com/document/d/1dX8ktajVsRDk-MDF-yHWV0f4vIe8U3DWrSzIerVGlF8/edit?usp=sharing) | [Recording](https://drive.google.com/file/d/1hyXwnVIYeqrT7hAuQKG6fUgk7lSO0puO/view?usp=sharing) |
-| 2025-07-18  | [Notes](https://docs.google.com/document/d/1dX8ktajVsRDk-MDF-yHWV0f4vIe8U3DWrSzIerVGlF8/edit?usp=sharing) | [Recording](https://drive.google.com/file/d/1PPZE_sBm-Ky1e1M7Kj8DVi584pUNInBX/view?usp=drive_link) |
-| 2025-06-27  | [Notes](https://docs.google.com/document/d/1dX8ktajVsRDk-MDF-yHWV0f4vIe8U3DWrSzIerVGlF8/edit?usp=sharing) | [Recording](https://drive.google.com/file/d/1wIlck6tD6FB0Grt8i2qbA_Nrm_yAmies/view?usp=drive_link) |
-| 2025-06-10  | [Notes](https://docs.google.com/document/d/1dX8ktajVsRDk-MDF-yHWV0f4vIe8U3DWrSzIerVGlF8/edit?usp=sharing) |                |
-| 2025-05-16  | [Notes](https://docs.google.com/document/d/1dX8ktajVsRDk-MDF-yHWV0f4vIe8U3DWrSzIerVGlF8/edit?usp=sharing)       |                |
-| 2025-04-18  | [Notes](https://docs.google.com/document/d/1dX8ktajVsRDk-MDF-yHWV0f4vIe8U3DWrSzIerVGlF8/edit?usp=sharing)       |                |
-| 2025-03-21  | [Notes](https://docs.google.com/document/d/1dX8ktajVsRDk-MDF-yHWV0f4vIe8U3DWrSzIerVGlF8/edit?usp=sharing)       |                |
-| 2025-01-17  | [Notes](https://docs.google.com/document/d/1dX8ktajVsRDk-MDF-yHWV0f4vIe8U3DWrSzIerVGlF8/edit?usp=sharing)       |                |
-| 2024-11-22  | [Notes](https://docs.google.com/document/d/1dX8ktajVsRDk-MDF-yHWV0f4vIe8U3DWrSzIerVGlF8/edit?usp=sharing)       |                |
-| 2024-10-18  | [Notes](https://docs.google.com/document/d/1dX8ktajVsRDk-MDF-yHWV0f4vIe8U3DWrSzIerVGlF8/edit?usp=sharing)       |                |
-| 2024-09-20  | [Notes](https://docs.google.com/document/d/1dX8ktajVsRDk-MDF-yHWV0f4vIe8U3DWrSzIerVGlF8/edit?usp=sharing)       | [Recording](#) |
+## Accomplishments
 
-> Want to contribute a summary or your own notes? Add a comment in the shared Google Doc!
-
----
-
-## 📚 Current Projects
-
-- ✅ **Quickstart Guide**  
-  Simplify the new user experience and help depositors get started faster.
-  
-- ✅ **SPA Documentation Integration**  
-  Ensure docs keep up with the newly designed [Dataverse App](https://github.com/IQSS/dataverse-frontend).
-
-- ✅ **Catalogue of Training Resources**  
-  Create an overview of existing Dataverse related training resources in the community.
-
----
-
-## 🔗 Useful Links
-
-- 📘 [Preview Docs Site](https://preview.guides.gdcc.io/)
-- 💬 [Zulip Docs Community Chat](https://dataverse.zulipchat.com/#channels/446770/docs/general)
-- 🧪 [Dataverse Guides](https://guides.dataverse.org/en/latest/)
-- 🛠️ [Open Doc Issues](https://github.com/IQSS/dataverse/labels/Feature%3A%20User%20Guide)
-- 💡 [ask.dataverse.org](https://ask.dataverse.org)
-
----
-
-## 🤝 Contribute
-
-Your input matters. Suggest a fix, file an issue, or just show up at our meeting — there's always something to improve.
-
-→ [Edit this page](https://github.com/gdcc/www.gdcc.io/edit/main/source/working-groups/documentation.md)  
-→ [Submit a pull request](https://github.com/gdcc/www.gdcc.io/pulls)
+- Created a [Quickstart Guide](https://guides.dataverse.org/en/latest/quickstart)
+- Improved [navigation](https://github.com/IQSS/dataverse/pull/10942) in the guides
+- Created a [Contributor Guide](https://guides.dataverse.org/en/latest/contributor)
