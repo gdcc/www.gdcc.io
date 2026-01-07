@@ -25,7 +25,9 @@ Everyone is welcome to join our groups. No fee (GDCC or otherwise) is required t
 
 ```{toctree}
 :hidden:
+working-groups/containerization.md
 working-groups/documentation.md
 working-groups/large-data-support.md
+working-groups/pydataverse.md
 working-groups/sensitive-data.md
 ```
