@@ -16,6 +16,7 @@ Everyone is welcome to join our groups. No fee (GDCC or otherwise) is required t
 - DevOps
 - [Frontend Development](https://ui.gdcc.io)
 - Geospatial Data
+- Internationalization ([mailing list](https://groups.google.com/g/dataverse-internationalization-wg))
 - Linked Data Notifications (LDN)
 - Metadata
 - Registry Metadata
