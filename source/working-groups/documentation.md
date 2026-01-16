@@ -14,11 +14,11 @@ We use the [#docs][] channel in Zulip. Please feel free to jump in and say hi! T
 
 We welcome anyone to join our meetings!
 
-We meet on the third Friday of the month at 10am Eastern Time, as shown in the [Dataverse Community Calendar](https://calendar.google.com/calendar/embed?src=c_udn4tonm401kgjjre4jl4ja0cs%40group.calendar.google.com&ctz=America%2FNew_York).
+We meet on the third Friday of the month (second Friday next time!) at 10am Eastern Time, as shown in the [Dataverse Community Calendar](https://calendar.google.com/calendar/embed?src=c_udn4tonm401kgjjre4jl4ja0cs%40group.calendar.google.com&ctz=America%2FNew_York).
 
 ### Next meeting
 
-- When: [2026-01-16 at 10am Eastern](https://time.is/compare/10am_16_Jan_2026_in_Boston)
+- When: [2026-02-13 at 10am Eastern](https://time.is/compare/10am_13_Feb_2026_in_Boston) (Note! This is the second Friday instead of the usual third Friday!)
 - Where: [Zoom](https://harvard.zoom.us/j/92654640205?pwd=43COJ82rJMAKZ179tjMDDTHPOO63KT.1)
 - What: [Agenda](https://docs.google.com/document/d/1dX8ktajVsRDk-MDF-yHWV0f4vIe8U3DWrSzIerVGlF8/edit?usp=sharing)
 
