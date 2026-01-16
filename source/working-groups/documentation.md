@@ -6,7 +6,7 @@ This working group is for all community members interested improving [Dataverse 
 
 ## Chat
 
-We use the [#docs][] channel in Zulip. Please feel free to jump in and say hi!
+We use the [#docs][] channel in Zulip. Please feel free to jump in and say hi! This is where we discuss projects we're working on.
 
 [#docs]: https://dataverse.zulipchat.com/#narrow/stream/446770-docs
 
