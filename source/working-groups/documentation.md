@@ -51,6 +51,8 @@ Notes for all meetings are in the same [rolling notes doc](https://docs.google.c
 
 ## Accomplishments
 
+In 2025 we:
+
 - Created a [Quickstart Guide](https://guides.dataverse.org/en/latest/quickstart)
 - Improved [navigation](https://github.com/IQSS/dataverse/pull/10942) in the guides
 - Created a [Contributor Guide](https://guides.dataverse.org/en/latest/contributor)
