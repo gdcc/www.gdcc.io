@@ -19,10 +19,8 @@ We welcome applications from all organizations. You will find the membership for
 | AUSSDA - The Austrian Social Science Data Archive | Austria |
 | Australian Data Archive | Australia |
 | Borealis, University of Toronto | Canada |
-| CEDIA | Ecuador |
 | Consorci de Serveis Universitaris de Catalunya | Spain |
 | Consorcio Madrono | Spain |
-| Convergence and Open Sharing System for Bigdata, Seoul National University | Republic of Korea |
 | Danish e-infrastructure Consortium (DeiC) | Denmark |
 | DANS | Netherlands |
 | DataverseNO Repository | Norway |
@@ -46,7 +44,6 @@ We welcome applications from all organizations. You will find the membership for
 | Massachusetts Institute of Technology | United States |
 | Metabiblioteca | Colombia |
 | Nanyang Technological University | Singapore |
-| NIDDK IBD Genetics Consortium | United States |
 | SciELO Dataverse Repository | Brazil |
 | Singapore University of Social Sciences | Singapore |
 | State Research Institution "Kyiv Academic University" | Ukraine |
