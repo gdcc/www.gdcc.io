@@ -20,6 +20,7 @@ We welcome anyone to join our meetings! Meetings are ueually held on a Monday at
 - [2026-01-23, 9am Eastern](https://time.is/compare/9am_23_Jan_2026_in_Boston) - [Zoom link](https://harvard.zoom.us/j/8097317367)
 
 ### Previous meetings
+- [2026-01-23, 9am Eastern](https://time.is/compare/9am_23_Jan_2026_in_Boston) - [Recording](https://harvard.zoom.us/rec/share/rRnRkAhxXEihDg52YMynMXoX6kzmmYeBUFe6eYAxzBiE9Ad_h_Gnb3WwU9LFRpSR.hCbB-K1fECo77F9b)
 - [2025-02-07, 9:30 Eastern](https://time.is/compare/930_7_Feb_2025_in_Boston) - [Zoom link](https://harvard.zoom.us/j/8097317367), [Recording](https://harvard.zoom.us/rec/share/Q9JYXCLCATaTrx9kY6ZatQiMoPCrdpBQRGZ64vQnmihjB4CVMV5UynkdE2zLZrDu.NPJglTgCC1GgYtCL)
 - [2024-06-24, 13:00 Eastern](https://time.is/compare/1300_24_Jun_2024_in_Boston) - [Meeting Agenda](https://docs.google.com/document/d/1zqrW7BlYFPpvC7lUa7FORAcxBaQYGRa7CcbFe0OilOk/edit#heading=h.yq1tzh9inevt), [Slides: ASU](https://docs.google.com/presentation/d/1L_gcDYhhuMoK-q90ZGy1cAnzdEAdyyTC12OzSMdF3jc/edit?usp=sharing), [Slides: Harvard](https://osf.io/69cux), [Recording](https://harvard.zoom.us/rec/share/3jclvAtIiHMkm3VfrJX56YU2Zao9VKjliEjICi0MHKXNHLOwFjARBZFSbFtfjcpg.yxzsJkamOYyXyR5_)
 - 2024-03-06, 11:00 Eastern - [Meeting Agenda](https://docs.google.com/document/d/13TYC2yu-F2Bj-bz4SlmZn3j6TGYvk0-NsuFbAOFBBwk/edit#heading=h.g1tkl59slrru), [Slides](https://docs.google.com/presentation/d/1SgzhHqFVphW1eonk_7sagGSkkwRJajuGCUfBEYAqvtg/edit#slide=id.p)
