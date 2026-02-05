@@ -13,7 +13,7 @@ The goals of this group are to:
 
 ##  Group meetings
 
-We welcome anyone to join our meetings! Meetings are ueually held on a Monday at 1pm Eastern time, and are announced to the [Dataverse Community google group](https://groups.google.com/u/1/g/dataverse-community) and the #ig-sensitivedata channel in the [Dataverse Community Slack](https://dataversecommunity.slack.com). 
+We welcome anyone to join our meetings! Meetings are ueually held on a Monday at 1pm Eastern time, and are announced to the [Dataverse Community google group](https://groups.google.com/u/1/g/dataverse-community). 
 
 ### Upcoming meetings
 
