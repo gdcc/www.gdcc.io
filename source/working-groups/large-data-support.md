@@ -19,10 +19,9 @@ We welcome anyone to join our meetings! Meetings are held monthly and are announ
 
 ### Upcoming meetings
 
-- [2025-02-13, 1:00pm Eastern](https://time.is/compare/1300_13_Feb_2025_in_Boston) - [Zoom link](https://harvard.zoom.us/j/8097317367)
-  
 ### Previous meetings
 
+- [2025-02-13, 1:00pm Eastern](https://time.is/compare/1300_13_Feb_2025_in_Boston) - [Zoom link](https://harvard.zoom.us/j/8097317367)
 - [Running Notes](https://docs.google.com/document/d/1Nz3CLXuycktXFcQXqEGJa1hkhn52M0B1W3HtFMB4kg4/edit?tab=t.0#heading=h.tl1ag1iydmoj)
 - 2024-03-06, 9:00 CST - [Working Group Meeting at the 2024 Dataverse Community Meeting](https://dcm2024.sched.com/event/1YtdW/large-data-support-hybrid-meeting-parallel-event?iframe=yes&w=100%&sidebar=yes&bg=no)   [Meeting Notes](https://docs.google.com/document/d/1hzmOXNUX3g2nrvZQKt4hpN0rSU_4ZpGuRN9r0chvMYo/edit#heading=h.3fi4272um3sy)
 
