@@ -18,7 +18,7 @@ We meet on the third Friday of the month (second Friday next time!) at 10am East
 
 ### Next meeting
 
-- When: [2026-03-27 at 10am Eastern](https://time.is/compare/10am_37_Mar_2026_in_Boston) (Note! This is the fourth Friday instead of the usual third Friday!)
+- When: [2026-03-27 at 10am Eastern](https://time.is/compare/10am_27_Mar_2026_in_Boston) (Note! This is the fourth Friday instead of the usual third Friday!)
 - Where: [Zoom](https://harvard.zoom.us/j/92654640205?pwd=43COJ82rJMAKZ179tjMDDTHPOO63KT.1)
 - What: [Agenda](https://docs.google.com/document/d/1dX8ktajVsRDk-MDF-yHWV0f4vIe8U3DWrSzIerVGlF8/edit?usp=sharing)
 
