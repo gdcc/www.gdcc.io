@@ -30,7 +30,7 @@ html_theme_options = {
   # see https://pydata-sphinx-theme.readthedocs.io/en/stable/user_guide/source-buttons.html
   "use_edit_page_button": True,
   # see https://pydata-sphinx-theme.readthedocs.io/en/stable/user_guide/announcements.html
-  "announcement": "The 12th annual Dataverse Community Meeting will be held at the World Trade Center in Barcelona on May 12-15, 2026. All are welcome! Register at <a href='dcm2026.com'>dcm2026.com</a>!",
+  "announcement": "The 12th annual Dataverse Community Meeting will be held at the World Trade Center in Barcelona on May 12-15, 2026. All are welcome! Register at <a href='https://dcm2026.com'>dcm2026.com</a>!",
 }
 html_context = {
     "github_user": "gdcc",
