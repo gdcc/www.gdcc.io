@@ -35,6 +35,7 @@ If you have agenda items to suggest or simply want to say hi, please join us in 
 
 Notes for all meetings are in the same [rolling notes doc](https://docs.google.com/document/d/1dX8ktajVsRDk-MDF-yHWV0f4vIe8U3DWrSzIerVGlF8/edit?usp=sharing).
 
+- 2026-03-27 [Recording](https://harvard.zoom.us/rec/share/ghBEwjqV83F5y2Ms49kFIAQoPgpUEDQoiaeutZZ4NaAQC8MAKzRt3_ClDBKZuKPy.Lj50jKzA39wX39Dy)
 - 2026-02-13 [Recording](https://harvard.zoom.us/rec/share/5R2mRuROOrTb-rO-RJprGI8kL5A7nRVLOXOfp8uUCEHvbGIRHuEVja6QoP8tVs_g.D-XxOrftnJX6qDHl)
 - 2026-01-16 [Recording](https://harvard.zoom.us/rec/share/MiwNy9p0-Kiz7tv9-iiz2D62qhsqiCCZ2ym9hmZIv2xu5-4KP3UY7jdoll2DbZ4I.7gVkWdSnarpQLWLZ)
 - 2025-11-21 [Recording](https://drive.google.com/file/d/1S3zF5D0qPioZbuBHYNy8qKTb9pW0Dl23/view?usp=sharing)
