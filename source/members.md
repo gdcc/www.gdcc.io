@@ -42,6 +42,7 @@ We welcome applications from all organizations. You will find the membership for
 | KU Leuven | Belgium |
 | Lingnan University | Hong Kong |
 | Massachusetts Institute of Technology | United States |
+| MedStar Health | United States |
 | Metabiblioteca | Colombia |
 | Nanyang Technological University | Singapore |
 | SciELO Dataverse Repository | Brazil |
