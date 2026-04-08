@@ -1,6 +1,6 @@
 # Sign-Up
 The Research and Data Management Core at University of North Carolina at Chapel Hill is now using iLab, an online system to streamline the process of ordering and billing, for GDCC/DataCite registrations and technical consulting and service requests. This system requires a one-time registration, as discussed below. Through this system, you can
-- register for, renew, and pay for your **GDCC membership**;
+- register for, renew, and pay for your **GDCC membership** (annual fee: 550 USD);
 - register for, add, and pay for **DataCite memberships and DOI registrations**; and
 - request and pay for **(technical) Dataverse consulting services**.
 
