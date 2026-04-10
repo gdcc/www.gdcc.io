@@ -14,22 +14,16 @@ We use the [#docs][] channel in Zulip. Please feel free to jump in and say hi! T
 
 We welcome anyone to join our meetings!
 
-We meet on the third Friday of the month (second Friday next time!) at 10am Eastern Time, as shown in the [Dataverse Community Calendar](https://calendar.google.com/calendar/embed?src=c_udn4tonm401kgjjre4jl4ja0cs%40group.calendar.google.com&ctz=America%2FNew_York).
+We meet on the third Friday of the month at 10am Eastern Time, as shown in the [Dataverse Community Calendar](https://calendar.google.com/calendar/embed?src=c_udn4tonm401kgjjre4jl4ja0cs%40group.calendar.google.com&ctz=America%2FNew_York).
 
-### Next online meeting
+### Next meeting (in Barcelona! 🎉 and Zoom)
 
-- When: [2026-04-10 at 10am Eastern](https://time.is/compare/10am_10_Apr_2026_in_Boston) (Note! This is the second Friday instead of the usual third Friday!)
-- Where: [Zoom](https://harvard.zoom.us/j/92654640205?pwd=43COJ82rJMAKZ179tjMDDTHPOO63KT.1)
-- What: [Agenda](https://docs.google.com/document/d/1dX8ktajVsRDk-MDF-yHWV0f4vIe8U3DWrSzIerVGlF8/edit?usp=sharing)
-
-If you have agenda items to suggest or simply want to say hi, please join us in the [meeting](https://dataverse.zulipchat.com/#narrow/channel/446770-docs/topic/doc.20group.20meeting/with/562700970) topic in Zulip.
-
-### Next in-person meeting
-
-- When: 2026-05-12 (time TBD), a [satellite meeting](https://dcm2026.com/general-information/) of the [2026 Dataverse Community Meeting](https://dcm2026.com) 
+- When: 2026-05-12 (time TBD), a [satellite meeting](https://dcm2026.com/general-information/) of the [2026 Dataverse Community Meeting](https://dcm2026.com) (Note! This is a Tuesday instead of the usual third Friday!)
 - Where: The [Barcelona Supercomputing Center](https://www.bsc.es) and [Zoom](https://harvard.zoom.us/j/92654640205?pwd=43COJ82rJMAKZ179tjMDDTHPOO63KT.1)
 - What: [Agenda](https://docs.google.com/document/d/1dX8ktajVsRDk-MDF-yHWV0f4vIe8U3DWrSzIerVGlF8/edit?usp=sharing)
-- Who: Please add yourself to the [list of attendees](https://docs.google.com/document/d/1uQIZtN6yuqH2XlcfRxNKa3KGvbsxT-fHIUZzKOZGR2k/edit?usp=sharing)!
+- Who: Please add yourself to the [list of attendees](https://docs.google.com/document/d/1uQIZtN6yuqH2XlcfRxNKa3KGvbsxT-fHIUZzKOZGR2k/edit?usp=sharing) before April 30th!
+
+If you have agenda items to suggest or simply want to say hi, please join us in the [meeting](https://dataverse.zulipchat.com/#narrow/channel/446770-docs/topic/doc.20group.20meeting/with/562700970) topic in Zulip.
 
 ### Previous meetings
 
