@@ -19,6 +19,11 @@ We welcome anyone to join our meetings! Meetings are held monthly and are announ
 
 ### Upcoming meetings
 
+- When: 2026-05-12 (time TBD), a [satellite meeting](https://dcm2026.com/general-information/) of the [2026 Dataverse Community Meeting](https://dcm2026.com) 
+- Where: The [Barcelona Supercomputing Center](https://www.bsc.es) and [Zoom](https://asu.zoom.us/j/87009684291?pwd=B9aBbttVJpCYo0Qg498c3jjHOYwgB1.1)
+- What: [Agenda](https://docs.google.com/document/d/1JfZ7GBDvcBHuaYIAax6AYxePOakXbVHkSgrvHbMU7Ow/edit?usp=drive_link)
+- Who: Please add yourself to the [list of attendees](https://docs.google.com/document/d/1hSVOj7Nc196b7Aq_yafXRWazsRNVLbArQ2_F2a0yK3U/edit?usp=sharing) before April 30th!
+
 ### Previous meetings
 
 - [2025-02-13, 1:00pm Eastern](https://time.is/compare/1300_13_Feb_2025_in_Boston) - [Zoom link](https://harvard.zoom.us/j/8097317367)
