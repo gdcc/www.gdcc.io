@@ -14,7 +14,7 @@ We use the [#docs][] channel in Zulip. Please feel free to jump in and say hi! T
 
 We welcome anyone to join our meetings!
 
-We meet on the third Friday of the month at 10am Eastern Time, as shown in the [Dataverse Community Calendar](https://calendar.google.com/calendar/embed?src=c_udn4tonm401kgjjre4jl4ja0cs%40group.calendar.google.com&ctz=America%2FNew_York).
+We meet on the second Friday of the month at 10am Eastern Time, as shown in the [Dataverse Community Calendar](https://calendar.google.com/calendar/embed?src=c_udn4tonm401kgjjre4jl4ja0cs%40group.calendar.google.com&ctz=America%2FNew_York).
 
 ### Next meeting
 
