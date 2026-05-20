@@ -16,12 +16,11 @@ We welcome anyone to join our meetings!
 
 We meet on the third Friday of the month at 10am Eastern Time, as shown in the [Dataverse Community Calendar](https://calendar.google.com/calendar/embed?src=c_udn4tonm401kgjjre4jl4ja0cs%40group.calendar.google.com&ctz=America%2FNew_York).
 
-### Next meeting (in Barcelona! 🎉 and Zoom)
+### Next meeting
 
-- When: 2026-05-12 at (tentatively) [10:30am Barcelona time](https://time.is/compare/1030_12_May_2026_in_Barcelona), a [satellite meeting](https://dcm2026.com/general-information/) of the [2026 Dataverse Community Meeting](https://dcm2026.com)
-- Where: The [Barcelona Supercomputing Center](https://www.bsc.es) and [Zoom](https://harvard.zoom.us/j/92654640205?pwd=43COJ82rJMAKZ179tjMDDTHPOO63KT.1)
+- When: [2026-06-12 at 10am Eastern](https://time.is/compare/10am_12_June_2026_in_Boston)
+- Where: [Zoom](https://harvard.zoom.us/j/92654640205?pwd=43COJ82rJMAKZ179tjMDDTHPOO63KT.1)
 - What: [Agenda](https://docs.google.com/document/d/1dX8ktajVsRDk-MDF-yHWV0f4vIe8U3DWrSzIerVGlF8/edit?usp=sharing)
-- Who: Please add yourself to the [list of attendees](https://docs.google.com/document/d/1uQIZtN6yuqH2XlcfRxNKa3KGvbsxT-fHIUZzKOZGR2k/edit?usp=sharing) before April 30th!
 
 If you have agenda items to suggest or simply want to say hi, please join us in the [meeting](https://dataverse.zulipchat.com/#narrow/channel/446770-docs/topic/doc.20group.20meeting/with/562700970) topic in Zulip.
 
@@ -29,6 +28,7 @@ If you have agenda items to suggest or simply want to say hi, please join us in 
 
 Notes for all meetings are in the same [rolling notes doc](https://docs.google.com/document/d/1dX8ktajVsRDk-MDF-yHWV0f4vIe8U3DWrSzIerVGlF8/edit?usp=sharing).
 
+- 2026-05-12 No recording since we met in person in Barcelona during the [2026 Dataverse Community Meeting](https://dcm2026.com)!
 - 2026-04-10 [Recording](https://harvard.zoom.us/rec/share/4p2zyVNPly70PF1rOtfHqbpiNs6eQPzgb8Uie6tGZhBN4G3ni3tEq4GAOlwDG3AJ.tuDbtxxtOC3-NBLW)
 - 2026-03-27 [Recording](https://harvard.zoom.us/rec/share/ghBEwjqV83F5y2Ms49kFIAQoPgpUEDQoiaeutZZ4NaAQC8MAKzRt3_ClDBKZuKPy.Lj50jKzA39wX39Dy)
 - 2026-02-13 [Recording](https://harvard.zoom.us/rec/share/5R2mRuROOrTb-rO-RJprGI8kL5A7nRVLOXOfp8uUCEHvbGIRHuEVja6QoP8tVs_g.D-XxOrftnJX6qDHl)
