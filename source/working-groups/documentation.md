@@ -29,10 +29,10 @@ If you have agenda items to suggest or simply want to say hi, please join us in 
 Notes for all meetings are in the same [rolling notes doc](https://docs.google.com/document/d/1dX8ktajVsRDk-MDF-yHWV0f4vIe8U3DWrSzIerVGlF8/edit?usp=sharing).
 
 - 2026-05-12 No recording since we met in person in Barcelona during the [2026 Dataverse Community Meeting](https://dcm2026.com)!
-- 2026-04-10 [Recording](https://harvard.zoom.us/rec/share/4p2zyVNPly70PF1rOtfHqbpiNs6eQPzgb8Uie6tGZhBN4G3ni3tEq4GAOlwDG3AJ.tuDbtxxtOC3-NBLW)
-- 2026-03-27 [Recording](https://harvard.zoom.us/rec/share/ghBEwjqV83F5y2Ms49kFIAQoPgpUEDQoiaeutZZ4NaAQC8MAKzRt3_ClDBKZuKPy.Lj50jKzA39wX39Dy)
-- 2026-02-13 [Recording](https://harvard.zoom.us/rec/share/5R2mRuROOrTb-rO-RJprGI8kL5A7nRVLOXOfp8uUCEHvbGIRHuEVja6QoP8tVs_g.D-XxOrftnJX6qDHl)
-- 2026-01-16 [Recording](https://harvard.zoom.us/rec/share/MiwNy9p0-Kiz7tv9-iiz2D62qhsqiCCZ2ym9hmZIv2xu5-4KP3UY7jdoll2DbZ4I.7gVkWdSnarpQLWLZ)
+- 2026-04-10 [Recording](https://drive.google.com/file/d/1phzbbVirZQphQGh91rNvzQyvGgbJuLrU/view?usp=drive_link)
+- 2026-03-27 [Recording](https://drive.google.com/file/d/1YJka4Z5XPL5J4E2yptJaDgnLtstCSYBU/view?usp=drive_link)
+- 2026-02-13 [Recording](https://drive.google.com/file/d/1Z_ngQXbeBd6ppcWBJFWCi3yGrpRdlVWc/view?usp=drive_link)
+- 2026-01-16 [Recording](https://drive.google.com/file/d/1NWcSt2pHiRAkeP9WK_2B0hQuwqEpy0Iq/view?usp=drive_link)
 - 2025-11-21 [Recording](https://drive.google.com/file/d/1S3zF5D0qPioZbuBHYNy8qKTb9pW0Dl23/view?usp=sharing)
 - 2025-09-26 [Recording](https://drive.google.com/file/d/1a7LLwI2oHEte7XOwhvz7F7Y2_0RtR2c8/view?usp=sharing)
 - 2025-08-15 [Recording](https://drive.google.com/file/d/1hyXwnVIYeqrT7hAuQKG6fUgk7lSO0puO/view?usp=sharing)
