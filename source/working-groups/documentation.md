@@ -50,7 +50,7 @@ Notes for all meetings are in the same [rolling notes doc](https://docs.google.c
 - 2025-01-17 
 - 2024-11-22 
 - 2024-10-18 
-- 2024-09-20 [Recording](https://harvard.zoom.us/rec/share/UBmb9Mzd_grPPsbX7jik54BGRMOHoskcVUab434u6FJOiyPE-fPN-AQjcWQmhSQ2.KAUPfDyco5S2aPzM)
+- 2024-09-20 [Recording](https://drive.google.com/file/d/1wZC0C4PpTlbl486PpvbDU-wWTaDYYFpn/view?usp=drive_link)
 </div>
 </details>
 
