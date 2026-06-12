@@ -28,6 +28,7 @@ If you have agenda items to suggest or simply want to say hi, please join us in 
 
 Notes for all meetings are in the same [rolling notes doc](https://docs.google.com/document/d/1dX8ktajVsRDk-MDF-yHWV0f4vIe8U3DWrSzIerVGlF8/edit?usp=sharing).
 
+- 2026-06-12 [Recording](https://drive.google.com/file/d/1xzy1dDBdNoqoe5_ZNhTEFvk0z9R5ilKc/view?usp=drive_link)
 - 2026-05-12 No recording since we met in person in Barcelona during the [2026 Dataverse Community Meeting](https://dcm2026.com)!
 - 2026-04-10 [Recording](https://drive.google.com/file/d/1phzbbVirZQphQGh91rNvzQyvGgbJuLrU/view?usp=drive_link)
 - 2026-03-27 [Recording](https://drive.google.com/file/d/1YJka4Z5XPL5J4E2yptJaDgnLtstCSYBU/view?usp=drive_link)
