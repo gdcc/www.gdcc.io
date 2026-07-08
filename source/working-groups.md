@@ -5,6 +5,7 @@ Everyone is welcome to join our groups. No fee (GDCC or otherwise) is required t
 ## Working Groups (WG)
 - [Containerization](https://ct.gdcc.io)
 - [Documentation](working-groups/documentation)
+- [Internationalization](working-groups/internationalization)
 - [Large Data Support](working-groups/large-data-support)
 - [pyDataverse](https://py.gdcc.io)
 - [Sensitive Data](working-groups/sensitive-data)
@@ -16,7 +17,6 @@ Everyone is welcome to join our groups. No fee (GDCC or otherwise) is required t
 - DevOps
 - [Frontend Development](https://ui.gdcc.io)
 - Geospatial Data
-- Internationalization ([mailing list](https://groups.google.com/g/dataverse-internationalization-wg))
 - Linked Data Notifications (LDN)
 - Metadata
 - Registry Metadata
@@ -28,6 +28,7 @@ Everyone is welcome to join our groups. No fee (GDCC or otherwise) is required t
 :hidden:
 working-groups/containerization.md
 working-groups/documentation.md
+working-groups/internationalization.md
 working-groups/large-data-support.md
 working-groups/pydataverse.md
 working-groups/sensitive-data.md
