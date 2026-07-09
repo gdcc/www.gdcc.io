@@ -2,7 +2,7 @@
 
 ## About
 
-This working group is for all community members interested improving internationalizing Dataverse.
+This working group is for all community members interested improving internationalizing Dataverse. We're just getting re-started, as we [announced](https://dataverse.zulipchat.com/#narrow/channel/615767-internationalization/topic/Internationalization.20WG.20is.20starting.20up.20again.21/near/608997751).
 
 ## Chat
 
