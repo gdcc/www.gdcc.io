@@ -18,7 +18,9 @@ We meet on the second Friday of the month at 10am Eastern Time, as shown in the 
 
 ### Next meeting
 
-- When: [2026-07-10 at 10am Eastern](https://time.is/compare/10am_10_July_2026_in_Boston)
+(We [decided](https://dataverse.zulipchat.com/#narrow/channel/446770-docs/topic/doc.20group.20meeting/near/609201229) to take the summer off!) 🏖️
+
+- When: [2026-09-11 at 10am Eastern](https://time.is/compare/10am_11_Sep_2026_in_Boston)
 - Where: [Zoom](https://harvard.zoom.us/j/92654640205?pwd=43COJ82rJMAKZ179tjMDDTHPOO63KT.1)
 - What: [Agenda](https://docs.google.com/document/d/1dX8ktajVsRDk-MDF-yHWV0f4vIe8U3DWrSzIerVGlF8/edit?usp=sharing)
 
