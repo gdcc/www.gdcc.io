@@ -10,6 +10,10 @@ We use the [#docs][] channel in Zulip. Please feel free to jump in and say hi! T
 
 [#docs]: https://dataverse.zulipchat.com/#narrow/stream/446770-docs
 
+## Members
+
+Please see <https://people.dataverse.org/?workingGroup=documentation> for the list of members. To add or remove yourself from the list, please open an issue at <https://github.com/gdcc/people.dataverse.org/issues>.
+
 ## Meetings
 
 We welcome anyone to join our meetings!
