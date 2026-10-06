@@ -25,7 +25,9 @@ We welcome anyone to join our meetings!
 
 ### Next meeting
 When: Meetings are scheduled on the FIRST FRIDAY of the month, at 10 AM Eastern Time, as scheduled in the [Dataverse Community Calendar](https://calendar.google.com/calendar/embed?src=c_udn4tonm401kgjjre4jl4ja0cs%40group.calendar.google.com&amp;ctz=America%2FNew_York).
+
 Where: [Zoom](https://www.google.com/url?q=https://queensu.zoom.us/j/96669188167?pwd%3DxZLuTyagZtrNeOKeSGemLahA4IM7VD.1&sa=D&source=calendar&usd=2&usg=AOvVaw2-kPEcevlgVFK8-fwP0IZm)
+
 What: [Meeting notes](https://docs.google.com/document/d/1GnVEqMwM5Uk-82dVWf8BBZ3MgkjCQKy2WuhicrGbRk0/edit?usp=sharing)
 
 ## Upcoming meetings
