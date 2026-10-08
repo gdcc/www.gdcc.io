@@ -22,7 +22,7 @@ We meet on the second Friday of the month at 10am Eastern Time, as shown in the 
 
 ### Next meeting
 
-- When: [2026-10-09 at 10am Eastern](https://time.is/compare/10am_9_Oct_2026_in_Boston)
+- When: [2026-11-13 at 10am Eastern](https://time.is/compare/10am_13_Nov_2026_in_Boston)
 - Where: [Zoom](https://harvard.zoom.us/j/92654640205?pwd=43COJ82rJMAKZ179tjMDDTHPOO63KT.1)
 - What: [Agenda](https://docs.google.com/document/d/1dX8ktajVsRDk-MDF-yHWV0f4vIe8U3DWrSzIerVGlF8/edit?usp=sharing)
 
