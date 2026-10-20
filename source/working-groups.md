@@ -28,8 +28,8 @@ Everyone is welcome to join our groups. No fee (GDCC or otherwise) is required t
 :hidden:
 working-groups/containerization.md
 working-groups/documentation.md
-working-groups/internationalization.md
 working-groups/geospatial.md
+working-groups/internationalization.md
 working-groups/large-data-support.md
 working-groups/pydataverse.md
 working-groups/sensitive-data.md
