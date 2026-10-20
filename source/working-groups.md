@@ -5,6 +5,7 @@ Everyone is welcome to join our groups. No fee (GDCC or otherwise) is required t
 ## Working Groups (WG)
 - [Containerization](https://ct.gdcc.io)
 - [Documentation](working-groups/documentation)
+- [Geospatial](working-groups/geospatial)
 - [Internationalization](working-groups/internationalization)
 - [Large Data Support](working-groups/large-data-support)
 - [pyDataverse](https://py.gdcc.io)
@@ -16,7 +17,6 @@ Everyone is welcome to join our groups. No fee (GDCC or otherwise) is required t
 - Data Documentation Initiative (DDI)
 - DevOps
 - [Frontend Development](https://ui.gdcc.io)
-- Geospatial Data
 - Linked Data Notifications (LDN)
 - Metadata
 - Registry Metadata
@@ -29,6 +29,7 @@ Everyone is welcome to join our groups. No fee (GDCC or otherwise) is required t
 working-groups/containerization.md
 working-groups/documentation.md
 working-groups/internationalization.md
+working-groups/geospatial.md
 working-groups/large-data-support.md
 working-groups/pydataverse.md
 working-groups/sensitive-data.md
