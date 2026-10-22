@@ -15,7 +15,7 @@ We're just getting re-started, we will be announcing on Zulip and Google Group s
 
 We use the [#geospatial][] channel in Zulip. Please feel free to jump in and say hi! This is where we share and discuss projects we're working on.
 
-[#geospatial]: https://dataverse.zulipchat.com/#narrow/channel/376593-geospatial/
+[#geospatial]: https://dataverse.zulipchat.com/#narrow/channel/376593-geospatial
 
 ## Meetings
 
