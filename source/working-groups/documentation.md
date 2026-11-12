@@ -62,6 +62,10 @@ Notes for all meetings are in the same [rolling notes doc](https://docs.google.c
 
 ## Accomplishments
 
+In 2026 we:
+
+- Moved the [list of Dataverse features](https://guides.dataverse.org/en/latest/admin/features.html) into the guides and expanded it.
+
 In 2025 we:
 
 - Created a [Quickstart Guide](https://guides.dataverse.org/en/latest/quickstart)
