@@ -30,7 +30,7 @@ html_theme_options = {
   # see https://pydata-sphinx-theme.readthedocs.io/en/stable/user_guide/source-buttons.html
   "use_edit_page_button": True,
   # see https://pydata-sphinx-theme.readthedocs.io/en/stable/user_guide/announcements.html
-  "announcement": "The <a href='https://dcm2027.org'>https://dcm2027.org/call-for-papers</a>call for proposals for the 2027 <a href='https://dcm2027.org'>Dataverse Community Meeting</a> in Leuven, Belgium is now open until 23 December!",
+  "announcement": "The <a href='https://dcm2027.org'>call for proposals</a> for the 2027 <a href='https://dcm2027.org'>Dataverse Community Meeting</a> in Leuven, Belgium is now open until 23 December!",
 }
 html_context = {
     "github_user": "gdcc",
