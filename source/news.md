@@ -1,4 +1,15 @@
 # News
+## November 2, 2026
+* The yearly survey to determine the topics of the Dataverse community meeting was sent out.
+* The [call for proposals](https://dcm2027.org/) for the 2027 Dataverse Community Meeting in Leuven, Belgium is now open until 23 December.
+* The Dataverse team has [announced the launch of "The Dataverse Quarterly Newsletter"](https://groups.google.com/g/dataverse-community/c/LxzqR06th1s/m/o6DqCOYDAwAJ) to highlight community stories.
+
+## September 2, 2026
+* The [GDCC Annual Report 2026](https://doi.org/10.5281/zenodo.22116829) was published
+* During the August community call, Jim Myers and Philip Durbin gave a presentation of new features in Dataverse 6.11, which include external vocabularies, previewers, and a DVWebloader update.
+* GDCC released DVWebloader, A web tool for uploading folders of files to a Dataverse dataset, [version 0.5.1](https://github.com/gdcc/dvwebloader/releases/tag/v0.5.1)
+* More news on Dataverse can be found in the [recent Dataverse Community News posts](https://groups.google.com/g/dataverse-community/search?q=%22dataverse%20community%20news%22) published on the Dataverse Users Community email list
+
 ## July 2, 2026
 * The 150th Dataverse installation was registered on [the Dataverse map](https://dataverse.org/). The total number of Dataverse installations is likely much higher, and we encourage installations not shown on the map to [open](https://github.com/IQSS/dataverse-installations/issues) a GitHub issue.
 * Dieuwertje Bloemen held [a first meeting](https://docs.google.com/document/d/1nE0_THWagjsNK3DeiBBFc1lwb4O0JzIUZdbjWy2G0ps/edit?usp=sharing) about KU Leuven's Dataverse review dashboard to discuss its potential uptake by community members and the necessary collection support and other features that can enable reuse of the open-source add-on.
@@ -14,7 +25,7 @@
 * More news on Dataverse can be found in the [recent Dataverse Community News posts](https://groups.google.com/g/dataverse-community/search?q=%22dataverse%20community%20news%22) published on the Dataverse Users Community email list
 
 ## April 2, 2026
-* Jetze Touber and Linda Reijnhoudt from DANS presented a plan for implementing file-level licensing in Dataverse are are requesting [feedback](https://groups.google.com/g/dataverse-community/c/F3CEgzKvyEg/m/YEyz-KawAgAJ).
+* Jetze Touber and Linda Reijnhoudt from DANS presented a plan for implementing file-level licensing in Dataverse are requesting [feedback](https://groups.google.com/g/dataverse-community/c/F3CEgzKvyEg/m/YEyz-KawAgAJ).
 * GDCC is organizing a workshop at DCM26 entitled "Building a Sustainable Path Forward for the Global Dataverse Community" for which [registration](https://groups.google.com/g/dataverse-community/c/DtbZ_1xBBxI/m/r2qsOFd5AgAJ) is open
 * The large data working group, documentation working group, containerization working group, and python working group are all organizing working group meetings at DCM26 on May 12th
 * Ceilyn Boyd and Philipp Conzett gave [a recorded talk](https://groups.google.com/g/dataverse-community/c/dT1e_jw_8Ck/m/R5VJwyK9AQAJ) entitled "Birdaro Training & Developing the Dataverse Community and Decision-Makers Playbooks"
